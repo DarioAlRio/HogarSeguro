@@ -1,34 +1,34 @@
 /* ==========================================================================
    HogarSeguro — sistema visual
-   Paleta: verde pino (marca/confianza) + ámbar cálido (acento, CTA de compra).
-   Tipografía: Fraunces (titulares, editorial) + Inter (texto).
+   Paleta: azul marino (marca/vigilancia) + ámbar de alerta (acento, CTA de compra).
+   Tipografía: Manrope (titulares, técnica) + Inter (texto).
    ========================================================================== */
 
 :root {
-  --color-bg: #faf7f2;
+  --color-bg: #f5f7fa;
   --color-surface: #ffffff;
-  --color-surface-alt: #f2ece1;
-  --color-ink: #201c18;
-  --color-ink-muted: #5b5347;
-  --color-border: #e4dccb;
+  --color-surface-alt: #e9eef4;
+  --color-ink: #141c27;
+  --color-ink-muted: #53606f;
+  --color-border: #d9e1ea;
 
-  --color-brand: #2f6f63;
-  --color-brand-dark: #1f4d44;
-  --color-brand-tint: #e5efec;
+  --color-brand: #1f3a5f;
+  --color-brand-dark: #142944;
+  --color-brand-tint: #e5ecf3;
 
-  --color-accent: #d98c3d;
-  --color-accent-dark: #a8631e;
-  --color-accent-ink: #3a2308;
+  --color-accent: #e0a52e;
+  --color-accent-dark: #b3821f;
+  --color-accent-ink: #2e2000;
 
-  --font-display: "Bitter", Georgia, "Times New Roman", serif;
-  --font-body: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-display: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 
   --radius-sm: 8px;
   --radius-md: 14px;
-  --radius-lg: 24px;
+  --radius-lg: 22px;
 
-  --shadow-sm: 0 1px 2px rgba(32, 28, 24, 0.07);
-  --shadow-md: 0 10px 28px rgba(32, 28, 24, 0.10);
+  --shadow-sm: 0 1px 2px rgba(20, 28, 39, 0.08);
+  --shadow-md: 0 10px 28px rgba(20, 28, 39, 0.12);
 
   --container: 1180px;
   --header-h: 76px;
@@ -36,23 +36,23 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-bg: #191613;
-    --color-surface: #221e19;
-    --color-surface-alt: #2a2520;
-    --color-ink: #f4efe6;
-    --color-ink-muted: #bdb2a1;
-    --color-border: #3a332b;
+    --color-bg: #0e1620;
+    --color-surface: #151f2c;
+    --color-surface-alt: #1b2735;
+    --color-ink: #eef3f8;
+    --color-ink-muted: #9db0c2;
+    --color-border: #263242;
 
-    --color-brand: #6fbfae;
-    --color-brand-dark: #8fd4c4;
-    --color-brand-tint: #22322e;
+    --color-brand: #6f9cc9;
+    --color-brand-dark: #93b8dc;
+    --color-brand-tint: #1c2b3c;
 
-    --color-accent: #eca25a;
-    --color-accent-dark: #f4b878;
-    --color-accent-ink: #221000;
+    --color-accent: #f0bc55;
+    --color-accent-dark: #f5cd7c;
+    --color-accent-ink: #2a1c00;
 
-    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.35);
-    --shadow-md: 0 10px 28px rgba(0, 0, 0, 0.45);
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+    --shadow-md: 0 10px 28px rgba(0, 0, 0, 0.5);
   }
 }
 
