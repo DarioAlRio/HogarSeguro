@@ -136,13 +136,21 @@ function breadcrumbs(items) {
   </nav>`;
 }
 
-function pageHero({ eyebrow, title, dek, updated }) {
-  return `<section class="page-hero">
-    <div class="wrap">
-      ${eyebrow ? `<p class="eyebrow">${eyebrow}</p>` : ""}
-      <h1>${title}</h1>
-      ${dek ? `<p class="hero-dek">${dek}</p>` : ""}
-      ${updated ? `<p class="updated">Actualizado el ${formatDate(updated)}</p>` : ""}
+function pageHero({ eyebrow, title, dek, updated, img, imgAlt }) {
+  const media = img
+    ? `<div class="page-hero-media">
+      <img src="${img}" alt="${imgAlt || ""}" loading="lazy" width="640" height="420">
+    </div>`
+    : "";
+  return `<section class="page-hero${img ? " has-media" : ""}">
+    <div class="wrap page-hero-inner">
+      <div class="page-hero-copy">
+        ${eyebrow ? `<p class="eyebrow">${eyebrow}</p>` : ""}
+        <h1>${title}</h1>
+        ${dek ? `<p class="hero-dek">${dek}</p>` : ""}
+        ${updated ? `<p class="updated">Actualizado el ${formatDate(updated)}</p>` : ""}
+      </div>
+      ${media}
     </div>
   </section>`;
 }
