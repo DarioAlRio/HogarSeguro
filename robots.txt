@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hogarseguro.vercel.app/sitemap.xml
+Sitemap: https://hogar-seguro.vercel.app/sitemap.xml
