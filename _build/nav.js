@@ -9,7 +9,7 @@ const SITE = {
   description:
     "Guías de compra y comparativas independientes de cámaras WiFi, timbres inteligentes, cerraduras conectadas, sensores y kits de videovigilancia para proteger tu hogar sin gastar de más.",
   // Dominio provisional: no hay dominio propio comprado todavía.
-  domain: "https://hogarseguro.vercel.app",
+  domain: "https://hogar-seguro.vercel.app",
   locale: "es_ES",
   lang: "es",
   email: "hola@hogarseguro.es", // PENDIENTE: crear buzón real, ver PENDIENTE.md
