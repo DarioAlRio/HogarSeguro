@@ -12,6 +12,7 @@ const GUIDES = [
     title: "Cómo elegir una cámara WiFi para interior",
     dek: "Resolución, visión nocturna, almacenamiento y privacidad: los criterios que importan antes de poner una cámara dentro de casa.",
     updated: "2026-09-16",
+    img: "/assets/img/guias/camaras-wifi-interior.jpg",
     intro: [
       "Una cámara de interior vigila lo más privado de tu casa: el salón, la habitación de un hijo o la zona donde duerme una persona mayor. Eso cambia las prioridades respecto a una cámara de exterior: aquí importa tanto la calidad de imagen como el control real que tienes sobre quién puede ver esas imágenes.",
       "Esta guía no recomienda una marca concreta: te da los criterios para comparar cualquier cámara WiFi de interior, la compres donde la compres.",
@@ -135,6 +136,7 @@ const GUIDES = [
     title: "Cómo elegir una cámara WiFi para exterior",
     dek: "Resistencia al agua, visión nocturna a distancia y alimentación: lo que cambia respecto a una cámara de interior.",
     updated: "2026-09-15",
+    img: "/assets/img/guias/camaras-wifi-exterior.jpg",
     intro: [
       "Una cámara pensada para interior no suele aguantar bien la intemperie: la lluvia, el sol directo o el frío de un invierno entero pueden dejarla inservible en pocos meses. Una cámara de exterior tiene que resolver problemas que dentro de casa no existen: estanqueidad, alcance nocturno mayor y, muchas veces, cómo llevarle corriente o alimentarla con batería.",
       "Como en el resto de guías de este sitio, aquí no se recomienda un modelo concreto: se explican los criterios para comparar cualquier cámara de exterior por su cuenta.",
@@ -257,6 +259,7 @@ const GUIDES = [
     title: "Timbres con cámara: cómo elegir el que de verdad necesitas",
     dek: "Ángulo de visión, detección de paquetes y alimentación: los criterios antes de sustituir tu timbre por uno inteligente.",
     updated: "2026-09-14",
+    img: "/assets/img/guias/timbres-inteligentes-con-camara.jpg",
     intro: [
       "Un timbre con cámara resuelve algo muy concreto: saber quién está en la puerta sin tener que abrirla, incluso cuando no estás en casa. Pero no todos sirven igual según el tipo de puerta, la instalación eléctrica que ya tengas o si lo que más te importa es ver paquetes dejados en el porche o identificar caras con detalle.",
       "Esta guía te da los criterios de compra, no un ranking de modelos concretos.",
@@ -378,6 +381,7 @@ const GUIDES = [
     title: "Cerraduras inteligentes: qué mirar antes de cambiar la de tu puerta",
     dek: "Compatibilidad con tu cerradura actual, métodos de apertura y autonomía: lo que de verdad marca la diferencia.",
     updated: "2026-09-13",
+    img: "/assets/img/guias/cerraduras-inteligentes.jpg",
     intro: [
       "Cambiar la cerradura de la puerta principal no es una decisión pequeña: si algo falla, puede dejarte fuera de casa. Por eso, más que en cualquier otro producto de esta web, conviene entender bien la compatibilidad con tu puerta actual antes de fijarte en funciones llamativas como el desbloqueo por huella o por voz.",
       "Esta guía explica los criterios de compra; no sustituye la comprobación física de tu cerradura y cilindro antes de comprar.",
@@ -500,6 +504,7 @@ const GUIDES = [
     title: "Sensores de apertura y movimiento: cómo montar una alarma sencilla",
     dek: "Sensores de puerta/ventana y de movimiento PIR: diferencias, cuándo usar cada uno y qué necesitas para que avisen a tu móvil.",
     updated: "2026-09-12",
+    img: "/assets/img/guias/sensores-de-apertura-y-movimiento.jpg",
     intro: [
       "No hace falta un sistema de alarma profesional con cuota mensual para tener una primera capa de seguridad: unos sensores de apertura en puertas y ventanas, combinados con algún sensor de movimiento en zonas de paso, ya avisan de una entrada no autorizada al móvil en tiempo real.",
       "Esta guía cubre los criterios para elegir bien estos sensores sueltos o en pequeños kits, sin necesidad de contratar una empresa de seguridad.",
@@ -621,6 +626,7 @@ const GUIDES = [
     title: "Cámaras de vigilancia con batería y sin cables: guía de compra",
     dek: "Capacidad de batería, consumo real y ubicación: cómo elegir una cámara que no dependa de un enchufe cerca.",
     updated: "2026-09-11",
+    img: "/assets/img/guias/camaras-de-bateria-sin-cables.jpg",
     intro: [
       "Las cámaras sin cables resuelven el problema de instalar vigilancia en sitios donde no hay corriente cerca: una caseta, la parte trasera del jardín, la fachada de una segunda vivienda. A cambio, hay que entender bien cómo se comporta la batería en el uso real, que suele diferir bastante de la cifra que anuncia el fabricante.",
       "Aquí no se recomienda un modelo concreto, sino los criterios para comparar cualquier cámara de batería antes de comprarla.",
@@ -741,6 +747,7 @@ const GUIDES = [
     title: "Kits de videovigilancia con grabador (NVR/DVR): guía de compra",
     dek: "Cuántas cámaras necesitas, PoE frente a WiFi y capacidad de disco: cómo montar un sistema completo sin liarte.",
     updated: "2026-09-10",
+    img: "/assets/img/guias/kits-de-videovigilancia-con-grabador.jpg",
     intro: [
       "Cuando una o dos cámaras sueltas se quedan cortas (una vivienda grande, un negocio pequeño, varias fachadas que cubrir), un kit con grabador centraliza toda la grabación en un único disco duro, sin depender de la nube ni de varias apps distintas. A cambio, la instalación es más compleja que enchufar una cámara WiFi individual.",
       "Esta guía explica qué mirar antes de comprar un kit completo, no un ranking de marcas.",
@@ -861,6 +868,7 @@ const GUIDES = [
     title: "Enchufes y luces inteligentes como complemento de seguridad",
     dek: "Cómo simular presencia en casa y disuadir con luz, sin que sea el único elemento de tu sistema de seguridad.",
     updated: "2026-09-09",
+    img: "/assets/img/guias/enchufes-y-luces-inteligentes-de-seguridad.jpg",
     intro: [
       "Un enchufe inteligente programado para encender una lámpara al anochecer, o un foco con sensor de movimiento en la entrada, no sustituyen a una cámara ni a una cerradura, pero son de los complementos más baratos y con mejor relación coste-beneficio para disuadir a alguien que esté vigilando la vivienda antes de un robo.",
       "Esta guía se centra en cómo elegir estos dos productos concretos con la seguridad del hogar como objetivo, no como domótica general.",
@@ -985,6 +993,7 @@ const ARTICLES = [
     title: "Cómo montar un sistema de videovigilancia doméstico desde cero",
     dek: "El orden lógico para ir añadiendo cámaras, sensores y cerraduras sin gastar de más el primer mes.",
     updated: "2026-09-16",
+    img: "/assets/img/blog/como-montar-un-sistema-de-videovigilancia-domestico-desde-cero.jpg",
     body: [
       "Montar la seguridad de una casa desde cero da la tentación de comprarlo todo de golpe (cámaras, timbre, cerradura, sensores), pero casi siempre compensa más empezar por lo que cubre el mayor riesgo con menos coste y ampliar después.",
       "Un orden razonable para la mayoría de viviendas: primero, una cámara de exterior orientada a la puerta principal o entrada de coche, que es el punto por el que entra la mayoría de intentos de acceso no autorizado. Segundo, sensores de apertura en las puertas y ventanas más accesibles (planta baja, ventanas ocultas desde la calle). Tercero, un timbre con cámara si recibes visitas o paquetes con frecuencia y quieres ver quién llama sin abrir. Por último, una cerradura inteligente, que es el cambio más caro y más delicado de instalar, y donde menos prisa suele haber si el resto de capas ya están en marcha.",
@@ -998,6 +1007,7 @@ const ARTICLES = [
     title: "5 errores comunes al instalar cámaras de seguridad en casa",
     dek: "Fallos fáciles de evitar que reducen mucho la utilidad real de una cámara, aunque el modelo sea bueno.",
     updated: "2026-09-14",
+    img: "/assets/img/blog/errores-comunes-instalar-camaras-de-seguridad-en-casa.jpg",
     body: [
       "Comprar una buena cámara no garantiza que funcione bien si la instalación tiene alguno de estos errores habituales, todos evitables sin gastar más dinero.",
       "1. Colocarla demasiado alta o demasiado lejos del punto de interés. Una cámara puesta muy alta para \"verlo todo\" a menudo pierde el detalle de caras justo donde más importa (la puerta, la ventana). 2,5-3 metros de altura suele ser el punto de partida razonable para la mayoría de entradas.",
@@ -1012,6 +1022,7 @@ const ARTICLES = [
     title: "¿Cuánto merece la pena gastar en seguridad para el hogar?",
     dek: "Dónde está el salto de valor real entre lo básico, lo intermedio y lo profesional.",
     updated: "2026-09-12",
+    img: "/assets/img/blog/cuanto-merece-la-pena-gastar-en-seguridad-para-el-hogar.jpg",
     body: [
       "No existe una cifra única correcta para todo el mundo, pero sí hay tramos de precio donde el salto de utilidad es claro y otros donde ya se paga sobre todo por marca o por funciones que la mayoría no llega a usar.",
       "El primer salto importante, y el más rentable, está entre no tener nada de seguridad y tener lo básico: una cámara de exterior orientada a la entrada y un par de sensores de apertura en los puntos más vulnerables. Ese paso cambia mucho el nivel de disuasión y de aviso temprano por una inversión relativamente pequeña.",
@@ -1025,6 +1036,7 @@ const ARTICLES = [
     title: "Cámara con cable o sin cable: qué elegir según dónde vivas",
     dek: "La decisión cambia mucho entre una vivienda en propiedad, un piso de alquiler y una segunda residencia.",
     updated: "2026-09-10",
+    img: "/assets/img/blog/camara-con-cable-o-sin-cable-que-elegir-segun-donde-vivas.jpg",
     body: [
       "La pregunta \"¿cámara con cable o de batería?\" no tiene una respuesta única: depende sobre todo del tipo de vivienda y de cuánto control tienes sobre hacer obra o cableado permanente.",
       "En una vivienda en propiedad donde piensas quedarte años, una instalación cableada (o PoE, si vas a poner varias cámaras) suele salir a cuenta a medio plazo: sin preocuparte de baterías, con la conexión más estable y sin depender de la cobertura WiFi llegando bien hasta cada rincón del jardín.",
@@ -1038,6 +1050,7 @@ const ARTICLES = [
     title: "Qué mirar en la letra pequeña del almacenamiento en la nube de una cámara",
     dek: "Antes de asumir que tu cámara \"graba en la nube gratis\", conviene leer qué incluye realmente ese plan.",
     updated: "2026-09-08",
+    img: "/assets/img/blog/que-mirar-en-la-letra-pequena-del-almacenamiento-en-la-nube.jpg",
     body: [
       "Muchas cámaras y timbres con cámara se anuncian con \"almacenamiento en la nube incluido\", pero ese texto suele esconder condiciones que solo se descubren después de comprar: es la letra pequeña que más merece la pena leer antes de decidirte.",
       "Primero, cuánto tiempo dura el plan gratuito: algunos fabricantes ofrecen la nube sin coste solo durante un periodo de prueba (30 días, unos meses) y pasan a cobrar automáticamente o a limitar la función después. Segundo, qué guarda exactamente ese plan gratuito: en muchos casos son solo clips cortos activados por movimiento, no grabación continua, y el histórico puede limitarse a unos pocos días antes de borrarse.",
