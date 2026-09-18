@@ -12,7 +12,6 @@ const SITE = {
   domain: "https://hogar-seguro.vercel.app",
   locale: "es_ES",
   lang: "es",
-  email: "hola@hogarseguro.es", // PENDIENTE: crear buzón real, ver PENDIENTE.md
   // Store ID real, ya creado en el panel de afiliados.
   amazonTag: "hogarseguro0d-21",
   amazonDisclaimer:
