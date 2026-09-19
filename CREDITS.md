@@ -27,6 +27,16 @@ Se listan aquí igualmente por trazabilidad.
 | cuanto-merece-la-pena-gastar-en-seguridad-para-el-hogar.jpg | https://www.pexels.com/photo/house-figurine-and-money-15196642/ |
 | camara-con-cable-o-sin-cable-que-elegir-segun-donde-vivas.jpg | https://www.pexels.com/photo/modern-twin-houses-with-symmetrical-design-30580640/ |
 | que-mirar-en-la-letra-pequena-del-almacenamiento-en-la-nube.jpg | https://www.pexels.com/photo/server-rack-in-modern-data-center-37605910/ |
+| como-proteger-tu-casa-cuando-te-vas-de-vacaciones.jpg | https://www.pexels.com/photo/9186152/ |
+| sensores-de-movimiento-y-mascotas-como-evitar-falsas-alarmas.jpg | https://www.pexels.com/photo/18629330/ |
+| cerradura-inteligente-en-piso-de-alquiler-que-tener-en-cuenta.jpg | https://www.pexels.com/photo/30332492/ |
+| como-elegir-cerradura-inteligente-compatible-con-tu-puerta.jpg | https://www.pexels.com/photo/373550/ |
+| que-hacer-si-tu-camara-wifi-pierde-conexion.jpg | https://www.pexels.com/photo/4218546/ |
+| kit-con-grabador-nvr-o-camaras-sueltas-cual-conviene-mas.jpg | https://www.pexels.com/photo/6310044/ |
+| camaras-de-videovigilancia-orientadas-a-la-via-publica.jpg | https://www.pexels.com/photo/13168513/ |
+| mantenimiento-basico-de-tu-sistema-de-seguridad-domestico.jpg | https://www.pexels.com/photo/5198425/ |
+| donde-instalar-un-timbre-con-camara-para-sacarle-partido.jpg | https://www.pexels.com/photo/9461215/ |
+| alarma-con-cuota-o-sin-cuota-diferencias-reales.jpg | https://www.pexels.com/photo/1990764/ |
 
 ## Sección "¿Por qué esta web?" del home
 
