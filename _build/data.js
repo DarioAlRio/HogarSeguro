@@ -706,6 +706,14 @@ const GUIDES = [
         rating: "4,6★",
       },
       {
+        asin: "B0DHCSKSKP",
+        title: "EZVIZ Cerradura inteligente DL05, 7 en 1, con huella dactilar",
+        note: "Siete métodos de desbloqueo, incluida la huella, con alertas instantáneas en la app.",
+        img: "https://m.media-amazon.com/images/I/513J72OhUSL._AC_SF480,480_.jpg",
+        price: "180",
+        rating: "4,6★",
+      },
+      {
         asin: "B0D1BZPJP1",
         title: "Aqara Cerradura Inteligente U200 con Lector de Huella Digital",
         note: "Matter over Thread, compatible con Apple Home Key; ecosistema smart home amplio.",
