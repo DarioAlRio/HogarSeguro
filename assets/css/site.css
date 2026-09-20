@@ -182,8 +182,7 @@ table { border-collapse: collapse; width: 100%; }
   content: "";
   position: absolute;
   inset: 0;
-  background: var(--color-bg);
-  opacity: 0.9;
+  background: linear-gradient(90deg, var(--color-bg) 0%, color-mix(in srgb, var(--color-bg) 82%, transparent) 50%, color-mix(in srgb, var(--color-bg) 45%, transparent) 100%);
   z-index: 0;
 }
 .hero .wrap { position: relative; z-index: 1; }
