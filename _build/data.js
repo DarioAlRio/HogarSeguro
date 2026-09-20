@@ -786,14 +786,6 @@ const GUIDES = [
         rating: "3,8★",
       },
       {
-        asin: "B0CRHTCHFL",
-        title: "Yale Linus Smart Lock L2 - Acceso sin llave, instalación DIY",
-        note: "Batería recargable, Yale Dot incluido y desbloqueo automático; instalación sin taladrar según la ficha. Valoración media algo baja (3,6★).",
-        img: "https://m.media-amazon.com/images/I/61eeKGFuvfL._AC_UL320_.jpg",
-        price: "175,00",
-        rating: "3,6★",
-      },
-      {
         asin: "B0CR67GWML",
         title: "SwitchBot Lock Pro WiFi Inteligente, Acceso Sin Llave",
         note: "El kit incluye Hub Mini (Matter) y teclado con huella; funciona con 4 pilas AA (6-9 meses según el fabricante) y no requiere taladrar.",
@@ -1667,7 +1659,7 @@ const ARTICLES = [
   },
   {
     slug: "cuanto-merece-la-pena-gastar-en-seguridad-para-el-hogar",
-    title: "¿Cuánto merece la pena gastar en seguridad para el hogar?",
+    title: "Cuánto gastar en seguridad para el hogar: presupuesto recomendado (2026)",
     dek: "Dónde está el salto de valor real entre lo básico, lo intermedio y lo profesional.",
     updated: "2026-09-12",
     img: "/assets/img/blog/cuanto-merece-la-pena-gastar-en-seguridad-para-el-hogar.jpg",
@@ -1807,7 +1799,7 @@ const ARTICLES = [
   },
   {
     slug: "kit-con-grabador-nvr-o-camaras-sueltas-cual-conviene-mas",
-    title: "Kit con grabador NVR o cámaras sueltas: cuál conviene más",
+    title: "Kit con grabador NVR o cámaras sueltas: cuál comprar (2026)",
     dek: "No siempre el sistema más completo es el que mejor encaja con el tamaño real de tu vivienda.",
     updated: "2026-09-16",
     img: "/assets/img/blog/kit-con-grabador-nvr-o-camaras-sueltas-cual-conviene-mas.jpg",
