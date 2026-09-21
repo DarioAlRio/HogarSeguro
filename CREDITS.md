@@ -37,6 +37,21 @@ Se listan aquí igualmente por trazabilidad.
 | mantenimiento-basico-de-tu-sistema-de-seguridad-domestico.jpg | https://www.pexels.com/photo/5198425/ |
 | donde-instalar-un-timbre-con-camara-para-sacarle-partido.jpg | https://www.pexels.com/photo/9461215/ |
 | alarma-con-cuota-o-sin-cuota-diferencias-reales.jpg | https://www.pexels.com/photo/1990764/ |
+| mejor-camara-de-seguridad-para-piso-sin-obras.jpg | https://www.pexels.com/photo/19239905/ |
+| camara-para-vigilar-mascotas-como-elegirla.jpg | https://www.pexels.com/photo/16814603/ |
+| camara-solar-o-de-bateria-cual-elegir.jpg | https://www.pexels.com/photo/17762230/ |
+| timbre-con-camara-o-mirilla-digital-cual-conviene.jpg | https://www.pexels.com/photo/12870101/ |
+| cerradura-con-huella-o-con-teclado-cual-elegir.jpg | https://www.pexels.com/photo/9593267/ |
+| cuanto-cuesta-un-kit-de-videovigilancia-con-grabador.jpg | https://www.pexels.com/photo/35147150/ |
+| alarma-para-piso-que-necesitas-para-empezar.jpg | https://www.pexels.com/photo/37243338/ |
+| seguridad-para-el-hogar-con-presupuesto-ajustado.jpg | https://www.pexels.com/photo/5466793/ |
+| errores-al-comprar-una-cerradura-inteligente.jpg | https://www.pexels.com/photo/285669/ |
+| que-necesitas-para-instalar-camaras-poe-en-casa.jpg | https://www.pexels.com/photo/3541557/ |
+| camara-4k-o-2k-para-casa-merece-la-pena-pagar-mas.jpg | https://www.pexels.com/photo/9983113/ |
+| seguridad-para-chalet-o-casa-de-campo-que-instalar.jpg | https://www.pexels.com/photo/7061662/ |
+| sensores-de-puerta-y-ventana-para-principiantes.jpg | https://www.pexels.com/photo/33332288/ |
+| simular-presencia-en-casa-con-enchufes-y-luces-inteligentes.jpg | https://www.pexels.com/photo/14823081/ |
+| como-proteger-tu-camara-wifi-de-accesos-no-deseados.jpg | https://www.pexels.com/photo/2882630/ |
 
 ## Sección "¿Por qué esta web?" del home
 
