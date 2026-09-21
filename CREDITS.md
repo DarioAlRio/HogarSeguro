@@ -30,9 +30,9 @@ Se listan aquí igualmente por trazabilidad.
 | como-proteger-tu-casa-cuando-te-vas-de-vacaciones.jpg | https://www.pexels.com/photo/9186152/ |
 | sensores-de-movimiento-y-mascotas-como-evitar-falsas-alarmas.jpg | https://www.pexels.com/photo/18629330/ |
 | cerradura-inteligente-en-piso-de-alquiler-que-tener-en-cuenta.jpg | https://www.pexels.com/photo/30332492/ |
-| como-elegir-cerradura-inteligente-compatible-con-tu-puerta.jpg | https://www.pexels.com/photo/373550/ |
+| como-elegir-cerradura-inteligente-compatible-con-tu-puerta.jpg | https://www.pexels.com/photo/6689289/ |
 | que-hacer-si-tu-camara-wifi-pierde-conexion.jpg | https://www.pexels.com/photo/4218546/ |
-| kit-con-grabador-nvr-o-camaras-sueltas-cual-conviene-mas.jpg | https://www.pexels.com/photo/6310044/ |
+| kit-con-grabador-nvr-o-camaras-sueltas-cual-conviene-mas.jpg | https://www.pexels.com/photo/3315303/ |
 | camaras-de-videovigilancia-orientadas-a-la-via-publica.jpg | https://www.pexels.com/photo/13168513/ |
 | mantenimiento-basico-de-tu-sistema-de-seguridad-domestico.jpg | https://www.pexels.com/photo/5198425/ |
 | donde-instalar-un-timbre-con-camara-para-sacarle-partido.jpg | https://www.pexels.com/photo/9461215/ |
@@ -47,7 +47,7 @@ Se listan aquí igualmente por trazabilidad.
 | seguridad-para-el-hogar-con-presupuesto-ajustado.jpg | https://www.pexels.com/photo/5466793/ |
 | errores-al-comprar-una-cerradura-inteligente.jpg | https://www.pexels.com/photo/285669/ |
 | que-necesitas-para-instalar-camaras-poe-en-casa.jpg | https://www.pexels.com/photo/3541557/ |
-| camara-4k-o-2k-para-casa-merece-la-pena-pagar-mas.jpg | https://www.pexels.com/photo/9983113/ |
+| camara-4k-o-2k-para-casa-merece-la-pena-pagar-mas.jpg | https://www.pexels.com/photo/29291981/ |
 | seguridad-para-chalet-o-casa-de-campo-que-instalar.jpg | https://www.pexels.com/photo/7061662/ |
 | sensores-de-puerta-y-ventana-para-principiantes.jpg | https://www.pexels.com/photo/33332288/ |
 | simular-presencia-en-casa-con-enchufes-y-luces-inteligentes.jpg | https://www.pexels.com/photo/14823081/ |
