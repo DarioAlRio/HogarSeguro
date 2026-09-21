@@ -73,6 +73,58 @@ function quickPicks(g) {
 
 // ---- Guías relacionadas con cada artículo (asignadas a mano por slug) ----
 const ARTICLE_GUIDES = {
+  "mejor-camara-de-seguridad-para-piso-sin-obras": [
+    "camaras-wifi-interior",
+    "camaras-de-bateria-sin-cables"
+  ],
+  "camara-para-vigilar-mascotas-como-elegirla": [
+    "camaras-wifi-interior"
+  ],
+  "camara-solar-o-de-bateria-cual-elegir": [
+    "camaras-de-bateria-sin-cables",
+    "camaras-wifi-exterior"
+  ],
+  "timbre-con-camara-o-mirilla-digital-cual-conviene": [
+    "timbres-inteligentes-con-camara"
+  ],
+  "cerradura-con-huella-o-con-teclado-cual-elegir": [
+    "cerraduras-inteligentes"
+  ],
+  "cuanto-cuesta-un-kit-de-videovigilancia-con-grabador": [
+    "kits-de-videovigilancia-con-grabador"
+  ],
+  "alarma-para-piso-que-necesitas-para-empezar": [
+    "sensores-de-apertura-y-movimiento"
+  ],
+  "seguridad-para-el-hogar-con-presupuesto-ajustado": [
+    "sensores-de-apertura-y-movimiento",
+    "camaras-wifi-exterior"
+  ],
+  "errores-al-comprar-una-cerradura-inteligente": [
+    "cerraduras-inteligentes"
+  ],
+  "que-necesitas-para-instalar-camaras-poe-en-casa": [
+    "kits-de-videovigilancia-con-grabador",
+    "camaras-wifi-exterior"
+  ],
+  "camara-4k-o-2k-para-casa-merece-la-pena-pagar-mas": [
+    "camaras-wifi-exterior",
+    "camaras-wifi-interior"
+  ],
+  "seguridad-para-chalet-o-casa-de-campo-que-instalar": [
+    "camaras-wifi-exterior",
+    "kits-de-videovigilancia-con-grabador"
+  ],
+  "sensores-de-puerta-y-ventana-para-principiantes": [
+    "sensores-de-apertura-y-movimiento"
+  ],
+  "simular-presencia-en-casa-con-enchufes-y-luces-inteligentes": [
+    "enchufes-y-luces-inteligentes-de-seguridad"
+  ],
+  "como-proteger-tu-camara-wifi-de-accesos-no-deseados": [
+    "camaras-wifi-interior",
+    "camaras-wifi-exterior"
+  ],
   "como-montar-un-sistema-de-videovigilancia-domestico-desde-cero": [
     "kits-de-videovigilancia-con-grabador",
     "camaras-wifi-interior"
