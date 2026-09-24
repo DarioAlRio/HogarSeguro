@@ -98,7 +98,7 @@ function home() {
   <section class="section trust-section">
     <div class="wrap trust-grid">
       <div class="trust-media">
-        <img src="/assets/img/trust-bg.jpg" alt="Fachada de una vivienda moderna" loading="lazy" width="640" height="480">
+        <img src="/assets/img/trust-bg.webp" alt="Fachada de una vivienda moderna" loading="lazy" width="640" height="480">
       </div>
       <div>
         <h2>¿Por qué esta web?</h2>
