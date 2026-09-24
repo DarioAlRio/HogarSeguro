@@ -12,6 +12,7 @@ const SITE = {
   domain: "https://hogar-seguro.vercel.app",
   locale: "es_ES",
   lang: "es",
+  email: "contacto.guiasdecompra@gmail.com",
   // Store ID real, ya creado en el panel de afiliados.
   amazonTag: "hogarseguro0d-21",
   amazonDisclaimer:
