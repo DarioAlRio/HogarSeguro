@@ -71,7 +71,37 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/camaras-de-bateria-sin-cables-ezviz-vs-eufy.html",
+      "destination": "/mejores/camaras-de-bateria-sin-cables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/camaras-de-bateria-sin-cables-tapo-vs-eufy.html",
+      "destination": "/mejores/camaras-de-bateria-sin-cables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/camaras-wifi-interior-tapo-vs-reolink.html",
+      "destination": "/mejores/camaras-wifi-interior.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/camaras-wifi-interior-xiaomi-vs-reolink.html",
+      "destination": "/mejores/camaras-wifi-interior.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/cerradura-inteligente-con-huella-dactila-vs-all-home-basics-cerradura-invisible.html",
+      "destination": "/guias/cerraduras-inteligentes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cerradura-inteligente-con-huella-dactila-vs-cerradura-inteligente-biometrica-pomo.html",
+      "destination": "/guias/cerraduras-inteligentes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cerradura-inteligente-con-huella-dactila-vs-ezviz-cerradura-inteligente-dl05.html",
       "destination": "/guias/cerraduras-inteligentes.html",
       "permanent": true
     },
@@ -81,8 +111,23 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/cerradura-inteligente-con-huella-dactila-vs-welock-touca51-cerradura-inteligente.html",
+      "destination": "/guias/cerraduras-inteligentes.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/cerradura-inteligente-con-huella-dactila-vs-welock-u81-smart-lock.html",
       "destination": "/guias/cerraduras-inteligentes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cerraduras-inteligentes-nuki-vs-switchbot.html",
+      "destination": "/mejores/cerraduras-inteligentes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cerraduras-inteligentes-welock-vs-switchbot.html",
+      "destination": "/mejores/cerraduras-inteligentes.html",
       "permanent": true
     },
     {
@@ -111,12 +156,27 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/eufy-by-anker-solocam-s340-3k-doble-vs-fanxiang-camara-vigilancia-wifi-exterior.html",
+      "destination": "/guias/camaras-de-bateria-sin-cables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/eufy-by-anker-solocam-s340-3k-doble-vs-iegeek-2k-camara-vigilancia-wifi.html",
+      "destination": "/guias/camaras-de-bateria-sin-cables.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/eufy-by-anker-solocam-s340-3k-doble-vs-nuasi-2k-camara-vigilancia-wifi-interior.html",
       "destination": "/guias/camaras-de-bateria-sin-cables.html",
       "permanent": true
     },
     {
       "source": "/comparativas/eufy-by-anker-solocam-s340-3k-doble-vs-tapo-c410.html",
+      "destination": "/guias/camaras-de-bateria-sin-cables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/eufy-by-anker-solocam-s340-3k-doble-vs-virtavo-2k-camara-de-vigilancia-wifi.html",
       "destination": "/guias/camaras-de-bateria-sin-cables.html",
       "permanent": true
     },
@@ -136,6 +196,11 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/ghome-smart-enchufe-inteligente-vs-tapo-p110.html",
+      "destination": "/guias/enchufes-y-luces-inteligentes-de-seguridad.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/gncc-camara-vigilancia-wifi-interior-2k-vs-tapo-c200.html",
       "destination": "/guias/camaras-wifi-interior.html",
       "permanent": true
@@ -146,7 +211,22 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/gncc-camara-vigilancia-wifi-interior-2k-vs-tapo-c210.html",
+      "destination": "/guias/camaras-wifi-interior.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/gncc-camara-vigilancia-wifi-interior-2k-vs-tapo-c260.html",
+      "destination": "/guias/camaras-wifi-interior.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/gncc-camara-vigilancia-wifi-interior-2k-vs-tenda-camara-vigilancia-wifi-interior-2k.html",
+      "destination": "/guias/camaras-wifi-interior.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/gncc-camara-vigilancia-wifi-interior-2k-vs-wolfang-pack-2-camara-vigilancia-wifi.html",
       "destination": "/guias/camaras-wifi-interior.html",
       "permanent": true
     },
@@ -196,12 +276,32 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/philips-hue-secure-sensor-de-contacto-vs-agshome-sensor-puerta-y-ventana.html",
+      "destination": "/guias/sensores-de-apertura-y-movimiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/philips-hue-secure-sensor-de-contacto-vs-ajax-detector-de-apertura-inalambrico.html",
+      "destination": "/guias/sensores-de-apertura-y-movimiento.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/philips-hue-secure-sensor-de-contacto-vs-ajax-detector-de-movimiento-inalambrico.html",
       "destination": "/guias/sensores-de-apertura-y-movimiento.html",
       "permanent": true
     },
     {
+      "source": "/comparativas/philips-hue-secure-sensor-de-contacto-vs-gebildet-3juegos-de-cableado.html",
+      "destination": "/guias/sensores-de-apertura-y-movimiento.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/philips-hue-secure-sensor-de-contacto-vs-huxgo-hxa003-alarmas-para-casa-wifi-gsm.html",
+      "destination": "/guias/sensores-de-apertura-y-movimiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/philips-hue-secure-sensor-de-contacto-vs-sonoff-sensor-zigbee-puerta-ventana.html",
       "destination": "/guias/sensores-de-apertura-y-movimiento.html",
       "permanent": true
     },
@@ -252,6 +352,11 @@
     },
     {
       "source": "/comparativas/sehmua-2pcs-camara-vigilancia-wifi-vs-tapo-c520ws.html",
+      "destination": "/guias/camaras-wifi-exterior.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sehmua-2pcs-camara-vigilancia-wifi-vs-xega-4g-lte-camara-solar-con-tarjeta.html",
       "destination": "/guias/camaras-wifi-exterior.html",
       "permanent": true
     },
@@ -321,12 +426,27 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/tapo-c51a-vs-galayou-camara-vigilancia-wifi-exterior.html",
+      "destination": "/guias/camaras-wifi-exterior.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/tapo-c51a-vs-ring-outdoor-camera-2k.html",
+      "destination": "/guias/camaras-wifi-exterior.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/tapo-c51a-vs-sehmua-2pcs-camara-vigilancia-wifi.html",
       "destination": "/guias/camaras-wifi-exterior.html",
       "permanent": true
     },
     {
       "source": "/comparativas/tapo-c51a-vs-tapo-c500.html",
+      "destination": "/guias/camaras-wifi-exterior.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/tapo-c51a-vs-tapo-c510w.html",
       "destination": "/guias/camaras-wifi-exterior.html",
       "permanent": true
     },
@@ -446,6 +566,11 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/virtavo-2k-camara-de-vigilancia-wifi-vs-ezviz-camara-vigilancia-wifi-interior.html",
+      "destination": "/guias/camaras-de-bateria-sin-cables.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/virtavo-2k-camara-de-vigilancia-wifi-vs-iegeek-2k-camara-vigilancia-wifi.html",
       "destination": "/guias/camaras-de-bateria-sin-cables.html",
       "permanent": true
@@ -488,6 +613,16 @@
     {
       "source": "/comparativas/welock-u81-smart-lock-vs-switchbot-lock-ultra.html",
       "destination": "/guias/cerraduras-inteligentes.html",
+      "permanent": true
+    },
+    {
+      "source": "/mejores/camaras-wifi-interior-360.html",
+      "destination": "/mejores/camaras-wifi-interior.html",
+      "permanent": true
+    },
+    {
+      "source": "/productos/philips-hue-secure-sensor-de-contacto-inteligente-blanco-b0cdmbfxj3.html",
+      "destination": "/guias/sensores-de-apertura-y-movimiento.html",
       "permanent": true
     },
     {
