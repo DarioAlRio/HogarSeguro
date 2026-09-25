@@ -228,6 +228,42 @@ module.exports = {
     "price": "15,29",
     "rating": "4,7★",
     "reviews": 417
+   },
+   {
+    "asin": "B0CDMBFXJ3",
+    "title": "Philips Hue Secure Sensor de Contacto Inteligente, Blanco",
+    "note": "Blanco. Top ventas en Amazon.es: 4,6★ con 3416 valoraciones. 100+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/61ssgpGZo5L._AC_UL320_.jpg",
+    "price": "39,99",
+    "rating": "4,6★",
+    "reviews": 3416
+   },
+   {
+    "asin": "B0BYZP8NK2",
+    "title": "SONOFF SNZB-02D Zigbee LCD Sensor Inteligente de Temperatura y Humedad,Termómetro Higrometro Digital para Interior,Compatible Alexa/Google Home,SONOFF",
+    "note": "Termómetro Higrometro Digital para Interior; Compatible Alexa/Google Home. Top ventas en Amazon.es: 4,4★ con 9254 valoraciones. 200+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/51UVxJIRnmL._AC_UL320_.jpg",
+    "price": "12,49",
+    "rating": "4,4★",
+    "reviews": 9254
+   },
+   {
+    "asin": "B0FQ4T6QJH",
+    "title": "TECKNET Alarma de puerta, alarma de ventana, protección antirrobo, sensor de ventana bidireccional inalámbrico, alarma y timbre 2 en 1, volumen de 3 n",
+    "note": "alarma de ventana; protección antirrobo. Top ventas en Amazon.es: 4,4★ con 5988 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/511XhypJpmL._AC_UL320_.jpg",
+    "price": "10,99",
+    "rating": "4,4★",
+    "reviews": 5988
+   },
+   {
+    "asin": "B0GTYX9PHN",
+    "title": "X-Sense Sensor de puerta inteligente con batería reemplazable SDS0A (2 unidades)",
+    "note": "Top ventas en Amazon.es: 4,0★ con 1859 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/41t3Kho6E3L._AC_UL320_.jpg",
+    "price": "31,99",
+    "rating": "4,0★",
+    "reviews": 1859
    }
   ],
   "camaras-de-bateria-sin-cables": [
@@ -257,6 +293,42 @@ module.exports = {
     "price": "45,99",
     "rating": "4,2★",
     "reviews": 31521
+   },
+   {
+    "asin": "B0F1MT6QBY",
+    "title": "COOAU 2K Camara Vigilancia WiFi Exterior Solar,Carga en Días Nublados,Negro",
+    "note": "Carga en Días Nublados; Negro. Top ventas en Amazon.es: 4,6★ con 2164 valoraciones. 200+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/61JC2Jv8afL._AC_UL320_.jpg",
+    "price": "43,99",
+    "rating": "4,6★",
+    "reviews": 2164
+   },
+   {
+    "asin": "B0GY3FG7TY",
+    "title": "YESYAMO AOV 24/7 Grabación Continua Cámara Vigilancia WiFi Exterior 4MP",
+    "note": "Top ventas en Amazon.es: 4,6★ con 433 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/61sYMfZ-djL._AC_UL320_.jpg",
+    "price": "63,17",
+    "rating": "4,6★",
+    "reviews": 433
+   },
+   {
+    "asin": "B0GBWDF7NY",
+    "title": "ieGeek 2K Camara Vigilancia WiFi Exterior/Interior sin Cables, Cámara de Vigilancia Exterior con Batería Recargable, 10M Visión Nocturna Colorida, Det",
+    "note": "Cámara de Vigilancia Exterior con Batería Recargable; 10M Visión Nocturna Colorida. Top ventas en Amazon.es: 4,3★ con 185 valoraciones. 200+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/61PnRJ87AzL._AC_UL320_.jpg",
+    "price": "60,98",
+    "rating": "4,3★",
+    "reviews": 185
+   },
+   {
+    "asin": "B0F44CJRFJ",
+    "title": "NIVIAN Cámara Vigilancia WiFi Exterior 2K con Batería | Cámara Seguridad PIR con Detección Humana, Visión Nocturna Color, Audio Bidireccional, Sirena ",
+    "note": "Cámara Seguridad PIR con Detección Humana; Visión Nocturna Color. Top ventas en Amazon.es: 4,0★ con 109 valoraciones. 50+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/71DwgSEhXAL._AC_UL320_.jpg",
+    "price": "32,99",
+    "rating": "4,0★",
+    "reviews": 109
    }
   ],
   "kits-de-videovigilancia-con-grabador": [
@@ -277,6 +349,15 @@ module.exports = {
     "price": "294,48",
     "rating": "4,7★",
     "reviews": 479
+   },
+   {
+    "asin": "B09DKPD8GT",
+    "title": "ANNKE Kit Videovigilancia 4K PoE, NVR 16 Canales con HDD 4TB IK10",
+    "note": "NVR 16 Canales con HDD 4TB IK10. Top ventas en Amazon.es: 4,3★ con 46 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/71LCgM0yLdL._AC_UL320_.jpg",
+    "price": "999,99",
+    "rating": "4,3★",
+    "reviews": 46
    }
   ],
   "enchufes-y-luces-inteligentes-de-seguridad": [
@@ -314,6 +395,24 @@ module.exports = {
     "img": "https://m.media-amazon.com/images/I/71rY5Rq+tXL._AC_UL320_.jpg",
     "price": "15,24",
     "rating": "4,4★",
+    "reviews": 709
+   },
+   {
+    "asin": "B09N7574QF",
+    "title": "GreenSun Enchufe Inteligente Exterior, Enchufe WiFi Medición del consumo de energía Compatible con Alexa y Google Home, APP Control Remoto, Función de",
+    "note": "Enchufe WiFi Medición del consumo de energía Compatible con Alexa y Google Home; APP Control Remoto. Top ventas en Amazon.es: 4,1★ con 785 valoraciones. 400+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/61iedMEk7sL._AC_UL320_.jpg",
+    "price": "19,99",
+    "rating": "4,1★",
+    "reviews": 785
+   },
+   {
+    "asin": "B0F2F77R89",
+    "title": "Enchufe Inteligente Wifi, 16A con Medidor Consumo, Control App/Voz, 4-Pack",
+    "note": "16A con Medidor Consumo; Control App/Voz. Top ventas en Amazon.es: 4,5★ con 709 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/61w7u98o2aL._AC_UL320_.jpg",
+    "price": "29,99",
+    "rating": "4,5★",
     "reviews": 709
    }
   ]

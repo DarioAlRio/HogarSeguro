@@ -81,6 +81,11 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/camaras-de-bateria-sin-cables-tapo-vs-iegeek.html",
+      "destination": "/mejores/camaras-de-bateria-sin-cables.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/camaras-wifi-interior-tapo-vs-reolink.html",
       "destination": "/mejores/camaras-wifi-interior.html",
       "permanent": true
@@ -141,6 +146,11 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/enchufe-con-mando-a-distancia-vs-meister-7474500.html",
+      "destination": "/guias/enchufes-y-luces-inteligentes-de-seguridad.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/enchufe-con-mando-a-distancia-vs-tapo-p100.html",
       "destination": "/guias/enchufes-y-luces-inteligentes-de-seguridad.html",
       "permanent": true
@@ -148,6 +158,16 @@
     {
       "source": "/comparativas/enchufe-con-mando-a-distancia-vs-tapo-p110.html",
       "destination": "/guias/enchufes-y-luces-inteligentes-de-seguridad.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/enchufes-y-luces-inteligentes-de-seguridad-sonoff-vs-antela.html",
+      "destination": "/mejores/enchufes-y-luces-inteligentes-de-seguridad.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/enchufes-y-luces-inteligentes-de-seguridad-tapo-vs-antela.html",
+      "destination": "/mejores/enchufes-y-luces-inteligentes-de-seguridad.html",
       "permanent": true
     },
     {
@@ -196,8 +216,28 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/ghome-smart-enchufe-inteligente-vs-meister-7474500.html",
+      "destination": "/guias/enchufes-y-luces-inteligentes-de-seguridad.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/ghome-smart-enchufe-inteligente-vs-tapo-p110.html",
       "destination": "/guias/enchufes-y-luces-inteligentes-de-seguridad.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/gillette-sensor-excel-cuchillas-vs-agshome-sensor-puerta-y-ventana.html",
+      "destination": "/guias/sensores-de-apertura-y-movimiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/gillette-sensor-excel-cuchillas-vs-sonoff-sensor-zigbee-puerta-ventana.html",
+      "destination": "/guias/sensores-de-apertura-y-movimiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/gillette-sensor-excel-cuchillas-vs-tuya-smart-wifi-sensor-de-puerta-puerta.html",
+      "destination": "/guias/sensores-de-apertura-y-movimiento.html",
       "permanent": true
     },
     {
@@ -246,6 +286,16 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/iegeek-4g-3g-lte-camara-de-vigilancia-vs-eufy-by-anker-solocam-s340-3k-doble.html",
+      "destination": "/guias/camaras-de-bateria-sin-cables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/iegeek-4g-3g-lte-camara-de-vigilancia-vs-virtavo-2k-camara-de-vigilancia-wifi.html",
+      "destination": "/guias/camaras-de-bateria-sin-cables.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/jennov-5mp-ptz-kit-camaras-de-vigilancia-vs-jennov-kit-camaras-de-vigilancia-con-ptz.html",
       "destination": "/guias/kits-de-videovigilancia-con-grabador.html",
       "permanent": true
@@ -273,6 +323,11 @@
     {
       "source": "/comparativas/jennov-kit-camaras-de-vigilancia-con-ptz-vs-zosi-4k-kit-camara-de-vigilancia-poe.html",
       "destination": "/guias/kits-de-videovigilancia-con-grabador.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/kits-de-videovigilancia-con-grabador-hiseeu-vs-annke.html",
+      "destination": "/mejores/kits-de-videovigilancia-con-grabador.html",
       "permanent": true
     },
     {
@@ -358,6 +413,11 @@
     {
       "source": "/comparativas/sehmua-2pcs-camara-vigilancia-wifi-vs-xega-4g-lte-camara-solar-con-tarjeta.html",
       "destination": "/guias/camaras-wifi-exterior.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sensores-de-apertura-y-movimiento-ajax-vs-sonoff.html",
+      "destination": "/mejores/sensores-de-apertura-y-movimiento.html",
       "permanent": true
     },
     {
@@ -546,6 +606,11 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/tuya-smart-wifi-sensor-de-puerta-puerta-vs-gebildet-3juegos-de-cableado.html",
+      "destination": "/guias/sensores-de-apertura-y-movimiento.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/videoportero-wifi-2-hilos-vs-boifun-timbre-inalambrico-exterior.html",
       "destination": "/guias/timbres-inteligentes-con-camara.html",
       "permanent": true
@@ -562,11 +627,6 @@
     },
     {
       "source": "/comparativas/virtavo-2k-camara-de-vigilancia-wifi-vs-cococam-2k-camara-vigilancia-wifi.html",
-      "destination": "/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
-    },
-    {
-      "source": "/comparativas/virtavo-2k-camara-de-vigilancia-wifi-vs-ezviz-camara-vigilancia-wifi-interior.html",
       "destination": "/guias/camaras-de-bateria-sin-cables.html",
       "permanent": true
     },
@@ -618,11 +678,6 @@
     {
       "source": "/mejores/camaras-wifi-interior-360.html",
       "destination": "/mejores/camaras-wifi-interior.html",
-      "permanent": true
-    },
-    {
-      "source": "/productos/philips-hue-secure-sensor-de-contacto-inteligente-blanco-b0cdmbfxj3.html",
-      "destination": "/guias/sensores-de-apertura-y-movimiento.html",
       "permanent": true
     },
     {
