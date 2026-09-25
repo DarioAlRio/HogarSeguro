@@ -31,6 +31,42 @@ module.exports = {
     "price": "17,99",
     "rating": "4,5★",
     "reviews": 721
+   },
+   {
+    "asin": "B0CDCL38KZ",
+    "title": "Tapo C200P2 - Cámara de Vigilancia WiFi Interior 360º, 1080p, Detección IA",
+    "note": "Cámara de Vigilancia WiFi Interior 360º; 1080p. Top ventas en Amazon.es: 4,7★ con 1084 valoraciones. 1 mil+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/71zqd4y1HRL._AC_UL320_.jpg",
+    "price": "41,99",
+    "rating": "4,7★",
+    "reviews": 1084
+   },
+   {
+    "asin": "B0DPN361MY",
+    "title": "EZVIZ 2pk CP1 2K Camara Vigilancia WiFi Interior con Seguimiento Automático, Cámara IP Domicilio WiFi 360° para Bebe con Visión Nocturna Color, Detecc",
+    "note": "Cámara IP Domicilio WiFi 360° para Bebe con Visión Nocturna Color; Detección Humana. Top ventas en Amazon.es: 4,5★ con 1084 valoraciones. 50+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/61d3c684HbL._AC_UL320_.jpg",
+    "price": "54,99",
+    "rating": "4,5★",
+    "reviews": 1084
+   },
+   {
+    "asin": "B09G5LFGVT",
+    "title": "LAXIHUB Cámara Vigilancia WiFi Interior 3MP, Cámara Inteligente en Casa para Mascotas, PTZ 355° Camara para Perros con Aplicación, Audio Bidireccional",
+    "note": "Cámara Inteligente en Casa para Mascotas; PTZ 355° Camara para Perros con Aplicación. Top ventas en Amazon.es: 4,6★ con 1084 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/61CL+p0fVkL._AC_UL320_.jpg",
+    "price": "39,49",
+    "rating": "4,6★",
+    "reviews": 1084
+   },
+   {
+    "asin": "B0DDY135PX",
+    "title": "COCOCAM 2PCS 2K Camara Vigilancia WiFi Interior Sin Cable",
+    "note": "Top ventas en Amazon.es: 4,5★ con 185 valoraciones. 400+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/61xLba2PqoL._AC_UL320_.jpg",
+    "price": "99,99",
+    "rating": "4,5★",
+    "reviews": 185
    }
   ],
   "camaras-wifi-exterior": [
@@ -60,6 +96,42 @@ module.exports = {
     "price": "35,99",
     "rating": "4,1★",
     "reviews": 283
+   },
+   {
+    "asin": "B0CLLLYYXF",
+    "title": "Xega Cámara Solar 4G Exterior con Tarjeta SIM Sin WiFi PTZ 2K 3MP",
+    "note": "Top ventas en Amazon.es: 4,5★ con 3085 valoraciones. 50+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/71vy1FUDs2L._AC_UL320_.jpg",
+    "price": "39,99",
+    "rating": "4,5★",
+    "reviews": 3085
+   },
+   {
+    "asin": "B0F6CKH9BB",
+    "title": "Aqara Camara Vigilancia WiFi Interior/Exterior G100, HomeKit Secure Video",
+    "note": "HomeKit Secure Video. Top ventas en Amazon.es: 4,3★ con 2164 valoraciones. 100+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/61vxhvTfpSL._AC_UL320_.jpg",
+    "price": "39,99",
+    "rating": "4,3★",
+    "reviews": 2164
+   },
+   {
+    "asin": "B0D3HFTFG1",
+    "title": "COCOCAM 4G LTE Camara Vigilancia SIM Exterior Solar Sin WiFi",
+    "note": "Top ventas en Amazon.es: 4,2★ con 2164 valoraciones. 50+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/71gNGVjMC0L._AC_UL320_.jpg",
+    "price": "52,99",
+    "rating": "4,2★",
+    "reviews": 2164
+   },
+   {
+    "asin": "B0DQCTZWYT",
+    "title": "Imou 5MP Cámara Vigilancia 4G WiFi Dual, Cámara Exterior Solar con Batería",
+    "note": "Cámara Exterior Solar con Batería. Top ventas en Amazon.es: 4,2★ con 2164 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/61jmnFs-W6L._AC_UL320_.jpg",
+    "price": "129,99",
+    "rating": "4,2★",
+    "reviews": 2164
    }
   ],
   "timbres-inteligentes-con-camara": [
@@ -118,18 +190,18 @@ module.exports = {
     "price": "62,99",
     "rating": "4,0★",
     "reviews": 90
+   },
+   {
+    "asin": "B0FCSL8BY6",
+    "title": "Tedee GO2 Alu Cerradura Inteligente Retrofit para La Puerta, Cerradura Digital con Bloqueo Automático y App, Seguridad Smart lock Acceso sin Llave | A",
+    "note": "Cerradura Digital con Bloqueo Automático y App; Seguridad Smart lock Acceso sin Llave. Top ventas en Amazon.es: 4,9★ con 46 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/81wXcUxLJXL._AC_UL320_.jpg",
+    "price": "399,99",
+    "rating": "4,9★",
+    "reviews": 46
    }
   ],
   "sensores-de-apertura-y-movimiento": [
-   {
-    "asin": "B0CDMBFXJ3",
-    "title": "Philips Hue Secure Sensor de Contacto Inteligente, Blanco",
-    "note": "Blanco. Top ventas en Amazon.es: 4,6★ con 3416 valoraciones. 100+ comprados el último mes.",
-    "img": "https://m.media-amazon.com/images/I/61ssgpGZo5L._AC_UL320_.jpg",
-    "price": "39,99",
-    "rating": "4,6★",
-    "reviews": 3416
-   },
    {
     "asin": "B085XQLQ3N",
     "title": "Gebildet 3Juegos de Cableado de Interruptor Magnético Negro NO/NC Sensor de Puerta Empotrado Interruptor de Láminas de Contacto de Ventana Oculta para",
@@ -138,6 +210,24 @@ module.exports = {
     "price": "9,99",
     "rating": "4,1★",
     "reviews": 872
+   },
+   {
+    "asin": "B09FYV6H3J",
+    "title": "Tuya Smart WiFi Sensor de Puerta Puerta Ventana Detectores Abiertos/Cerrados App Wi-Fi Notificación Alerta Alerta Soporte Alexa Google Home",
+    "note": "Top ventas en Amazon.es: 4,1★ con 5988 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/41AwvFKPwtL._AC_UL320_.jpg",
+    "price": "16,99",
+    "rating": "4,1★",
+    "reviews": 5988
+   },
+   {
+    "asin": "B01CFL4HFA",
+    "title": "Gillette Sensor Excel Cuchillas de Afeitar para Hombre, Pack de 10",
+    "note": "Pack de 10. Top ventas en Amazon.es: 4,7★ con 417 valoraciones. 600+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/81JnTQ65qjL._AC_UL320_.jpg",
+    "price": "15,29",
+    "rating": "4,7★",
+    "reviews": 417
    }
   ],
   "camaras-de-bateria-sin-cables": [
@@ -158,6 +248,15 @@ module.exports = {
     "price": "49,99",
     "rating": "4,0★",
     "reviews": 702
+   },
+   {
+    "asin": "B0DB82S2M9",
+    "title": "ieGeek 4G/3G LTE Camara de Vigilancia Solar Inalámbrica 2K 3MP",
+    "note": "Top ventas en Amazon.es: 4,2★ con 31.521 valoraciones. 50+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/81ZP08Lx-RL._AC_UL320_.jpg",
+    "price": "45,99",
+    "rating": "4,2★",
+    "reviews": 31521
    }
   ],
   "kits-de-videovigilancia-con-grabador": [
@@ -198,6 +297,24 @@ module.exports = {
     "price": "31,99",
     "rating": "4,4★",
     "reviews": 889
+   },
+   {
+    "asin": "B0CL5WQPNF",
+    "title": "GreenSun Enchufe Inteligente Alexa,Medidor Consumo Tomada Inteligente Programable con Temporizador Medición bidireccional del consumo y la generación ",
+    "note": "Medidor Consumo Tomada Inteligente Programable con Temporizador Medición bidireccional del consumo y la generación de electricidad en Mini-PV Enchufe Inteligente. Top ventas en Amazon.es: 4,0★ con 1291 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/61so8s+Z7RL._AC_UL320_.jpg",
+    "price": "25,99",
+    "rating": "4,0★",
+    "reviews": 1291
+   },
+   {
+    "asin": "B08KTLN7RW",
+    "title": "Meister 7474500, enchufe inalámbrico (juego de 3+1) 1100W, 4 canales y 1 canal Maestro, Mando a Distancia, función de autoaprendizaje, (Alcance de 30 ",
+    "note": "enchufe inalámbrico (juego de 3+1) 1100W; 4 canales y 1 canal Maestro. Top ventas en Amazon.es: 4,4★ con 709 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/71rY5Rq+tXL._AC_UL320_.jpg",
+    "price": "15,24",
+    "rating": "4,4★",
+    "reviews": 709
    }
   ]
  },
