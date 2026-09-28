@@ -1,3 +1,14 @@
+// Etiquetas cortas para los botones de filtro.
+const SHORT_LABELS = {
+  "camaras-wifi-interior": "Cámaras interior",
+  "camaras-wifi-exterior": "Cámaras exterior",
+  "timbres-inteligentes-con-camara": "Timbres",
+  "cerraduras-inteligentes": "Cerraduras",
+  "sensores-de-apertura-y-movimiento": "Sensores",
+  "camaras-de-bateria-sin-cables": "Cámaras a batería",
+  "kits-de-videovigilancia-con-grabador": "Kits NVR/DVR",
+  "enchufes-y-luces-inteligentes-de-seguridad": "Enchufes y luces"
+};
 "use strict";
 
 const { SITE } = require("../nav");
@@ -11,7 +22,7 @@ function productosIndex() {
   );
 
   const filters = GUIDES.map(
-    (g) => `<button type="button" class="filter-btn" data-filter="${g.slug}">${escapeHtml(g.title)} (${g.products.length})</button>`
+    (g) => `<button type="button" class="filter-btn" data-filter="${g.slug}">${escapeHtml(SHORT_LABELS[g.slug] || g.title)} (${g.products.length})</button>`
   ).join("\n        ");
 
   const html = `
