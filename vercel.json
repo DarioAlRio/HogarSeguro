@@ -14,7 +14,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/agshome-sensor-puerta-y-ventana-vs-ajax-detector-de-movimiento-inalambrico.html",
@@ -25,7 +25,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/agshome-sensor-puerta-y-ventana-vs-huxgo-hxa003-alarmas-para-casa-wifi-gsm.html",
@@ -36,7 +36,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/agshome-sensor-puerta-y-ventana-vs-tapo-t100.html",
@@ -47,7 +47,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/ajax-detector-de-apertura-inalambrico-vs-ajax-detector-de-movimiento-inalambrico.html",
@@ -58,7 +58,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/ajax-detector-de-apertura-inalambrico-vs-huxgo-hxa003-alarmas-para-casa-wifi-gsm.html",
@@ -69,7 +69,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/ajax-detector-de-apertura-inalambrico-vs-tapo-t100.html",
@@ -80,7 +80,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/ajax-detector-de-movimiento-inalambrico-vs-huxgo-hxa003-alarmas-para-casa-wifi-gsm.html",
@@ -91,7 +91,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/ajax-detector-de-movimiento-inalambrico-vs-tapo-t100.html",
@@ -102,7 +102,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/annke-kit-videovigilancia-poe-3k-exterio-vs-jennov-kit-camaras-de-vigilancia-con-ptz.html",
@@ -113,7 +113,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/kits-de-videovigilancia-con-grabador.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/annke-kit-videovigilancia-poe-3k-exterio-vs-reolink-5mp-kit-camaras-de-vigilancia-po.html",
@@ -124,7 +124,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/kits-de-videovigilancia-con-grabador.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/annke-kit-videovigilancia-poe-3k-exterio-vs-zosi-4k-kit-camara-de-vigilancia-poe.html",
@@ -135,7 +135,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/kits-de-videovigilancia-con-grabador.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/boifun-timbre-inalambrico-exterior-vs-ezviz-ep4-mirilla-digital-wifi-4k.html",
@@ -146,7 +146,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/timbres-inteligentes-con-camara.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/camaras-de-bateria-sin-cables-ezviz-vs-eufy.html",
@@ -157,7 +157,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/mejores/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/camaras-de-bateria-sin-cables-tapo-vs-eufy.html",
@@ -168,7 +168,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/mejores/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/camaras-de-bateria-sin-cables-tapo-vs-iegeek.html",
@@ -179,7 +179,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/mejores/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/camaras-wifi-interior-tapo-vs-reolink.html",
@@ -190,7 +190,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/mejores/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/camaras-wifi-interior-xiaomi-vs-reolink.html",
@@ -201,7 +201,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/mejores/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/cerradura-inteligente-con-huella-dactila-vs-all-home-basics-cerradura-invisible.html",
@@ -212,7 +212,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/cerraduras-inteligentes.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/cerradura-inteligente-con-huella-dactila-vs-cerradura-inteligente-biometrica-pomo.html",
@@ -223,7 +223,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/cerraduras-inteligentes.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/cerradura-inteligente-con-huella-dactila-vs-ezviz-cerradura-inteligente-dl05.html",
@@ -234,7 +234,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/cerraduras-inteligentes.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/cerradura-inteligente-con-huella-dactila-vs-switchbot-lock-ultra.html",
@@ -245,7 +245,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/cerraduras-inteligentes.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/cerradura-inteligente-con-huella-dactila-vs-welock-touca51-cerradura-inteligente.html",
@@ -256,7 +256,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/cerraduras-inteligentes.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/cerradura-inteligente-con-huella-dactila-vs-welock-u81-smart-lock.html",
@@ -267,7 +267,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/cerraduras-inteligentes.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/cerraduras-inteligentes-nuki-vs-switchbot.html",
@@ -278,7 +278,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/mejores/cerraduras-inteligentes.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/cerraduras-inteligentes-welock-vs-switchbot.html",
@@ -289,7 +289,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/mejores/cerraduras-inteligentes.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/cococam-2k-camara-vigilancia-wifi-vs-nuasi-2k-camara-vigilancia-wifi-interior.html",
@@ -300,7 +300,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/cococam-2k-camara-vigilancia-wifi-vs-tapo-c410.html",
@@ -311,7 +311,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/enchufe-con-mando-a-distancia-vs-meister-7474500.html",
@@ -322,7 +322,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/enchufes-y-luces-inteligentes-de-seguridad.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/enchufe-con-mando-a-distancia-vs-tapo-p100.html",
@@ -333,7 +333,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/enchufes-y-luces-inteligentes-de-seguridad.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/enchufe-con-mando-a-distancia-vs-tapo-p110.html",
@@ -344,7 +344,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/enchufes-y-luces-inteligentes-de-seguridad.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/enchufes-y-luces-inteligentes-de-seguridad-sonoff-vs-antela.html",
@@ -355,7 +355,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/mejores/enchufes-y-luces-inteligentes-de-seguridad.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/enchufes-y-luces-inteligentes-de-seguridad-tapo-vs-antela.html",
@@ -366,7 +366,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/mejores/enchufes-y-luces-inteligentes-de-seguridad.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/eufy-by-anker-solocam-s340-3k-doble-vs-cococam-2k-camara-vigilancia-wifi.html",
@@ -377,7 +377,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/eufy-by-anker-solocam-s340-3k-doble-vs-fanxiang-camara-vigilancia-wifi-exterior.html",
@@ -388,7 +388,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/eufy-by-anker-solocam-s340-3k-doble-vs-iegeek-2k-camara-vigilancia-wifi.html",
@@ -399,7 +399,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/eufy-by-anker-solocam-s340-3k-doble-vs-nuasi-2k-camara-vigilancia-wifi-interior.html",
@@ -410,7 +410,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/eufy-by-anker-solocam-s340-3k-doble-vs-tapo-c410.html",
@@ -421,7 +421,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/eufy-by-anker-solocam-s340-3k-doble-vs-virtavo-2k-camara-de-vigilancia-wifi.html",
@@ -432,7 +432,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/ezviz-cerradura-inteligente-dl05-vs-all-home-basics-cerradura-invisible.html",
@@ -443,7 +443,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/cerraduras-inteligentes.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/ezviz-cerradura-inteligente-dl05-vs-switchbot-lock-ultra.html",
@@ -454,7 +454,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/cerraduras-inteligentes.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/ezviz-cerradura-inteligente-dl05-vs-welock-u81-smart-lock.html",
@@ -465,7 +465,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/cerraduras-inteligentes.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/ghome-smart-enchufe-inteligente-vs-meister-7474500.html",
@@ -476,7 +476,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/enchufes-y-luces-inteligentes-de-seguridad.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/ghome-smart-enchufe-inteligente-vs-tapo-p110.html",
@@ -487,7 +487,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/enchufes-y-luces-inteligentes-de-seguridad.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/gillette-sensor-excel-cuchillas-vs-agshome-sensor-puerta-y-ventana.html",
@@ -498,7 +498,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/gillette-sensor-excel-cuchillas-vs-sonoff-sensor-zigbee-puerta-ventana.html",
@@ -509,7 +509,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/gillette-sensor-excel-cuchillas-vs-tuya-smart-wifi-sensor-de-puerta-puerta.html",
@@ -520,7 +520,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/gncc-camara-vigilancia-wifi-interior-2k-vs-tapo-c200.html",
@@ -531,7 +531,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/gncc-camara-vigilancia-wifi-interior-2k-vs-tapo-c200c.html",
@@ -542,7 +542,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/gncc-camara-vigilancia-wifi-interior-2k-vs-tapo-c210.html",
@@ -553,7 +553,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/gncc-camara-vigilancia-wifi-interior-2k-vs-tapo-c260.html",
@@ -564,7 +564,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/gncc-camara-vigilancia-wifi-interior-2k-vs-tenda-camara-vigilancia-wifi-interior-2k.html",
@@ -575,7 +575,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/gncc-camara-vigilancia-wifi-interior-2k-vs-wolfang-pack-2-camara-vigilancia-wifi.html",
@@ -586,7 +586,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/iegeek-2k-camara-vigilancia-wifi-vs-cococam-2k-camara-vigilancia-wifi.html",
@@ -597,7 +597,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/iegeek-2k-camara-vigilancia-wifi-vs-nuasi-2k-camara-vigilancia-wifi-interior.html",
@@ -608,7 +608,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/iegeek-2k-camara-vigilancia-wifi-vs-tapo-c410.html",
@@ -619,7 +619,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/iegeek-4g-3g-lte-camara-de-vigilancia-vs-eufy-by-anker-solocam-s340-3k-doble.html",
@@ -630,7 +630,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/iegeek-4g-3g-lte-camara-de-vigilancia-vs-virtavo-2k-camara-de-vigilancia-wifi.html",
@@ -641,7 +641,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/jennov-5mp-ptz-kit-camaras-de-vigilancia-vs-jennov-kit-camaras-de-vigilancia-con-ptz.html",
@@ -652,7 +652,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/kits-de-videovigilancia-con-grabador.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/jennov-5mp-ptz-kit-camaras-de-vigilancia-vs-reolink-5mp-kit-camaras-de-vigilancia-po.html",
@@ -663,7 +663,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/kits-de-videovigilancia-con-grabador.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/jennov-5mp-ptz-kit-camaras-de-vigilancia-vs-sannce-4k-poe-kit-camaras-de-vigilancia.html",
@@ -674,7 +674,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/kits-de-videovigilancia-con-grabador.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/jennov-5mp-ptz-kit-camaras-de-vigilancia-vs-zosi-4k-kit-camara-de-vigilancia-poe.html",
@@ -685,7 +685,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/kits-de-videovigilancia-con-grabador.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/jennov-kit-camaras-de-vigilancia-con-ptz-vs-reolink-5mp-kit-camaras-de-vigilancia-po.html",
@@ -696,7 +696,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/kits-de-videovigilancia-con-grabador.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/jennov-kit-camaras-de-vigilancia-con-ptz-vs-zosi-4k-kit-camara-de-vigilancia-poe.html",
@@ -707,7 +707,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/kits-de-videovigilancia-con-grabador.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/kits-de-videovigilancia-con-grabador-hiseeu-vs-annke.html",
@@ -718,7 +718,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/mejores/kits-de-videovigilancia-con-grabador.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/philips-hue-secure-sensor-de-contacto-vs-agshome-sensor-puerta-y-ventana.html",
@@ -729,7 +729,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/philips-hue-secure-sensor-de-contacto-vs-ajax-detector-de-apertura-inalambrico.html",
@@ -740,7 +740,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/philips-hue-secure-sensor-de-contacto-vs-ajax-detector-de-movimiento-inalambrico.html",
@@ -751,7 +751,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/philips-hue-secure-sensor-de-contacto-vs-gebildet-3juegos-de-cableado.html",
@@ -762,7 +762,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/philips-hue-secure-sensor-de-contacto-vs-huxgo-hxa003-alarmas-para-casa-wifi-gsm.html",
@@ -773,7 +773,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/philips-hue-secure-sensor-de-contacto-vs-sonoff-sensor-zigbee-puerta-ventana.html",
@@ -784,7 +784,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/philips-hue-secure-sensor-de-contacto-vs-tapo-t100.html",
@@ -795,7 +795,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/reolink-5mp-kit-camaras-de-vigilancia-po-vs-zosi-4k-kit-camara-de-vigilancia-poe.html",
@@ -806,7 +806,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/kits-de-videovigilancia-con-grabador.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/ring-outdoor-camera-2k-vs-sehmua-2pcs-camara-vigilancia-wifi.html",
@@ -817,7 +817,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-exterior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/ring-outdoor-camera-2k-vs-tapo-c500.html",
@@ -828,7 +828,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-exterior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/ring-outdoor-camera-2k-vs-tapo-c520ws.html",
@@ -839,7 +839,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-exterior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/sannce-4k-poe-kit-camaras-de-vigilancia-vs-jennov-kit-camaras-de-vigilancia-con-ptz.html",
@@ -850,7 +850,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/kits-de-videovigilancia-con-grabador.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/sannce-4k-poe-kit-camaras-de-vigilancia-vs-reolink-5mp-kit-camaras-de-vigilancia-po.html",
@@ -861,7 +861,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/kits-de-videovigilancia-con-grabador.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/sannce-4k-poe-kit-camaras-de-vigilancia-vs-zosi-4k-kit-camara-de-vigilancia-poe.html",
@@ -872,7 +872,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/kits-de-videovigilancia-con-grabador.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/sehmua-2pcs-camara-vigilancia-wifi-vs-tapo-c500.html",
@@ -883,7 +883,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-exterior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/sehmua-2pcs-camara-vigilancia-wifi-vs-tapo-c520ws.html",
@@ -894,7 +894,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-exterior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/sehmua-2pcs-camara-vigilancia-wifi-vs-xega-4g-lte-camara-solar-con-tarjeta.html",
@@ -905,7 +905,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-exterior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/sensores-de-apertura-y-movimiento-ajax-vs-sonoff.html",
@@ -916,7 +916,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/mejores/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/switchbot-lock-ultra-vs-all-home-basics-cerradura-invisible.html",
@@ -927,7 +927,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/cerraduras-inteligentes.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-c200c-vs-tapo-c200.html",
@@ -938,7 +938,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-c210-vs-tapo-c200.html",
@@ -949,7 +949,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-c210-vs-tapo-c200c.html",
@@ -960,7 +960,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-c210-vs-tapo-c260.html",
@@ -971,7 +971,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-c260-vs-tapo-c200.html",
@@ -982,7 +982,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-c260-vs-tapo-c200c.html",
@@ -993,7 +993,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-c410-vs-nuasi-2k-camara-vigilancia-wifi-interior.html",
@@ -1004,7 +1004,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-c500-vs-tapo-c520ws.html",
@@ -1015,7 +1015,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-exterior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-c510w-vs-ring-outdoor-camera-2k.html",
@@ -1026,7 +1026,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-exterior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-c510w-vs-sehmua-2pcs-camara-vigilancia-wifi.html",
@@ -1037,7 +1037,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-exterior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-c510w-vs-tapo-c500.html",
@@ -1048,7 +1048,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-exterior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-c510w-vs-tapo-c520ws.html",
@@ -1059,7 +1059,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-exterior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-c51a-vs-galayou-camara-vigilancia-wifi-exterior.html",
@@ -1070,7 +1070,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-exterior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-c51a-vs-ring-outdoor-camera-2k.html",
@@ -1081,7 +1081,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-exterior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-c51a-vs-sehmua-2pcs-camara-vigilancia-wifi.html",
@@ -1092,7 +1092,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-exterior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-c51a-vs-tapo-c500.html",
@@ -1103,7 +1103,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-exterior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-c51a-vs-tapo-c510w.html",
@@ -1114,7 +1114,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-exterior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-c51a-vs-tapo-c520ws.html",
@@ -1125,7 +1125,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-exterior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-d205-vs-boifun-timbre-inalambrico-exterior.html",
@@ -1136,7 +1136,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/timbres-inteligentes-con-camara.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-d205-vs-ezviz-ep4-mirilla-digital-wifi-4k.html",
@@ -1147,7 +1147,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/timbres-inteligentes-con-camara.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-d210-vs-boifun-timbre-inalambrico-exterior.html",
@@ -1158,7 +1158,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/timbres-inteligentes-con-camara.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-d210-vs-ezviz-ep4-mirilla-digital-wifi-4k.html",
@@ -1169,7 +1169,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/timbres-inteligentes-con-camara.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-d210-vs-tapo-d205.html",
@@ -1180,7 +1180,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/timbres-inteligentes-con-camara.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-p100-vs-tapo-p100.html",
@@ -1191,7 +1191,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/enchufes-y-luces-inteligentes-de-seguridad.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-p100-vs-tapo-p110.html",
@@ -1202,7 +1202,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/enchufes-y-luces-inteligentes-de-seguridad.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-p110-vs-tapo-p100.html",
@@ -1213,7 +1213,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/enchufes-y-luces-inteligentes-de-seguridad.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-p110-vs-tapo-p110.html",
@@ -1224,7 +1224,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/enchufes-y-luces-inteligentes-de-seguridad.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tapo-t100-vs-huxgo-hxa003-alarmas-para-casa-wifi-gsm.html",
@@ -1235,7 +1235,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tenda-camara-vigilancia-wifi-interior-2k-vs-tapo-c200.html",
@@ -1246,7 +1246,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tenda-camara-vigilancia-wifi-interior-2k-vs-tapo-c200c.html",
@@ -1257,7 +1257,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tenda-camara-vigilancia-wifi-interior-2k-vs-tapo-c210.html",
@@ -1268,7 +1268,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tenda-camara-vigilancia-wifi-interior-2k-vs-tapo-c260.html",
@@ -1279,7 +1279,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/timbre-de-video-inalambrico-con-timbre-vs-boifun-timbre-inalambrico-exterior.html",
@@ -1290,7 +1290,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/timbres-inteligentes-con-camara.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/timbre-de-video-inalambrico-con-timbre-vs-ezviz-ep4-mirilla-digital-wifi-4k.html",
@@ -1301,7 +1301,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/timbres-inteligentes-con-camara.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/timbre-de-video-inalambrico-con-timbre-vs-tapo-d205.html",
@@ -1312,7 +1312,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/timbres-inteligentes-con-camara.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/timbre-de-video-inalambrico-con-timbre-vs-tapo-d210.html",
@@ -1323,7 +1323,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/timbres-inteligentes-con-camara.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/tuya-smart-wifi-sensor-de-puerta-puerta-vs-gebildet-3juegos-de-cableado.html",
@@ -1334,7 +1334,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/videoportero-wifi-2-hilos-vs-boifun-timbre-inalambrico-exterior.html",
@@ -1345,7 +1345,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/timbres-inteligentes-con-camara.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/videoportero-wifi-2-hilos-vs-ezviz-ep4-mirilla-digital-wifi-4k.html",
@@ -1356,7 +1356,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/timbres-inteligentes-con-camara.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/videoportero-wifi-2-hilos-vs-tapo-d205.html",
@@ -1367,7 +1367,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/timbres-inteligentes-con-camara.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/virtavo-2k-camara-de-vigilancia-wifi-vs-cococam-2k-camara-vigilancia-wifi.html",
@@ -1378,7 +1378,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/virtavo-2k-camara-de-vigilancia-wifi-vs-iegeek-2k-camara-vigilancia-wifi.html",
@@ -1389,7 +1389,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/virtavo-2k-camara-de-vigilancia-wifi-vs-nuasi-2k-camara-vigilancia-wifi-interior.html",
@@ -1400,7 +1400,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/virtavo-2k-camara-de-vigilancia-wifi-vs-tapo-c410.html",
@@ -1411,7 +1411,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/welock-touca51-cerradura-inteligente-vs-all-home-basics-cerradura-invisible.html",
@@ -1422,7 +1422,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/cerraduras-inteligentes.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/welock-touca51-cerradura-inteligente-vs-ezviz-cerradura-inteligente-dl05.html",
@@ -1433,7 +1433,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/cerraduras-inteligentes.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/welock-touca51-cerradura-inteligente-vs-switchbot-lock-ultra.html",
@@ -1444,7 +1444,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/cerraduras-inteligentes.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/welock-touca51-cerradura-inteligente-vs-welock-u81-smart-lock.html",
@@ -1455,7 +1455,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/cerraduras-inteligentes.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/welock-u81-smart-lock-vs-all-home-basics-cerradura-invisible.html",
@@ -1466,7 +1466,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/cerraduras-inteligentes.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/welock-u81-smart-lock-vs-switchbot-lock-ultra.html",
@@ -1477,7 +1477,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/guias/cerraduras-inteligentes.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/mejores/camaras-wifi-interior-360.html",
@@ -1488,7 +1488,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/mejores/camaras-wifi-interior.html",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/(.*)",
@@ -1499,7 +1499,7 @@
         }
       ],
       "destination": "https://hogarseguroya.es/$1",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/comparativas/agshome-sensor-puerta-y-ventana-vs-ajax-detector-de-apertura-inalambrico.html",
