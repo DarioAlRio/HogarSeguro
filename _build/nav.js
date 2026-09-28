@@ -9,7 +9,9 @@ const SITE = {
   description:
     "Guías de compra y comparativas independientes de cámaras WiFi, timbres inteligentes, cerraduras conectadas, sensores y kits de videovigilancia para proteger tu hogar sin gastar de más.",
   // Dominio provisional: no hay dominio propio comprado todavía.
-  domain: "https://hogar-seguro.vercel.app",
+  domain: "https://hogarseguroya.es",
+  // Dominios antiguos: redirigen 301 página a página al dominio actual (vercel.json).
+  legacyHosts: ["hogar-seguro.vercel.app"],
   locale: "es_ES",
   lang: "es",
   email: "contacto.guiasdecompra@gmail.com",
