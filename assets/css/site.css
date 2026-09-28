@@ -509,3 +509,31 @@ table { border-collapse: collapse; width: 100%; }
 .seo-chips a{border:1px solid var(--color-border);border-radius:999px;padding:4px 12px;font-size:.85rem;background:var(--color-surface)}
 .seo-brand-vs{display:grid;grid-template-columns:1fr 1fr;gap:20px}
 @media (max-width:640px){.seo-related ul{columns:1}.seo-brand-vs{grid-template-columns:1fr}.seo-sticky-txt strong{display:block;overflow:hidden;text-overflow:ellipsis}}
+
+/* ==========================================================================
+   Identidad propia HogarSeguro — "panel de control"
+   Portada azul noche con retícula, etiquetas tipo indicador de estado,
+   tarjetas con línea superior de alerta y esquinas medias.
+   ========================================================================== */
+:root { --radius-sm: 6px; --radius-md: 10px; --radius-lg: 14px; }
+.site-header { background: var(--color-surface); border-bottom: 1px solid var(--color-border); box-shadow: 0 1px 0 var(--color-border), 0 6px 18px rgba(10, 25, 50, 0.06); }
+.hero { background-image: none; background-color: #0f1d33; color: #eef3fa; }
+.hero::before { opacity: 1; background:
+  linear-gradient(rgba(255,255,255,0.05) 1px, transparent 1px) 0 0 / 32px 32px,
+  linear-gradient(90deg, rgba(255,255,255,0.05) 1px, transparent 1px) 0 0 / 32px 32px,
+  radial-gradient(ellipse at 80% 20%, rgba(80,140,230,0.35), transparent 60%), #0f1d33; }
+.hero h1 { color: #ffffff; }
+.hero .hero-dek { color: #c4d0e2; }
+.hero .btn-ghost { color: #ffffff; border-color: rgba(255,255,255,0.35); }
+.hero .btn-ghost:hover { border-color: var(--color-accent); color: var(--color-accent); }
+.eyebrow { display: inline-flex; align-items: center; gap: 8px; padding: 5px 12px; border-radius: 999px;
+  background: color-mix(in srgb, var(--color-accent) 18%, transparent); color: var(--color-accent-dark); border: 1px solid color-mix(in srgb, var(--color-accent) 45%, transparent); }
+.eyebrow::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: #3ecf6e; box-shadow: 0 0 0 3px rgba(62,207,110,0.25); }
+.hero .eyebrow { color: #ffd37a; }
+.hero-art-card { background: #16284a; border-color: #2a4170; color: #eef3fa; }
+.hero-art-card:nth-child(2n) { margin-top: 0; }
+.btn { border-radius: 8px; }
+.section-head h2::after { content: ""; display: block; width: 48px; height: 3px; margin-top: 10px; background: var(--color-accent); border-radius: 2px; }
+.card { border-top: 3px solid var(--color-accent); }
+.cta-band { background: #0f1d33; }
+.site-footer { background: var(--color-surface-alt); }
