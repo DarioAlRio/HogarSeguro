@@ -1491,14 +1491,14 @@
       "permanent": true
     },
     {
-      "source": "/:path*",
+      "source": "/(.*)",
       "has": [
         {
           "type": "host",
           "value": "hogar-seguro.vercel.app"
         }
       ],
-      "destination": "https://hogarseguroya.es/:path*",
+      "destination": "https://hogarseguroya.es/$1",
       "permanent": true
     },
     {
