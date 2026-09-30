@@ -419,7 +419,7 @@ module.exports = {
  },
  "articles": [
   {
-   "updated": "2026-09-24",
+   "updated": "2026-10-01",
    "slug": "camara-de-vigilancia-sin-cuotas-mensuales",
    "guide": "camaras-wifi-exterior",
    "title": "Cámaras de vigilancia sin cuotas mensuales: cómo elegirlas",
@@ -432,11 +432,21 @@ module.exports = {
     "Si un ladrón se lleva la cámara, se lleva también la tarjeta. Por eso en exterior conviene colocarla alta o combinarla con un grabador escondido.",
     "<h2>Detección inteligente sin pagar</h2>",
     "Cada vez más marcas incluyen detección de personas y vehículos sin suscripción. Compruébalo en la ficha: evita decenas de avisos falsos al día.",
+    "<h2>Cuánto dura una tarjeta microSD en una cámara</h2>",
+    "Depende de la resolución y de si graba continuamente o solo al detectar movimiento. Como referencia orientativa, una cámara 1080p grabando las 24 horas llena una tarjeta de 128 GB en pocos días; con grabación solo por eventos, la misma tarjeta puede durar semanas antes de empezar a sobrescribir los vídeos más antiguos.",
+    "Usa tarjetas de resistencia alta (las marcadas como High Endurance o para videovigilancia): las normales no están pensadas para escribir sin parar y fallan antes.",
+    "<h2>La suscripción, ¿cuándo sí compensa?</h2>",
+    "No siempre es un gasto inútil. Tiene sentido si vas a vigilar una casa vacía durante largas temporadas, donde un robo se llevaría la cámara con su tarjeta, o si necesitas guardar vídeos durante meses. En una vivienda habitual, el almacenamiento local cubre la mayoría de necesidades.",
+    "Una alternativa intermedia es combinar cámaras con microSD en interior y un grabador NVR escondido en un armario para las exteriores: ningún pago mensual y los vídeos a salvo aunque roben una cámara.",
+    "<h2>Privacidad y legalidad</h2>",
+    "Graba solo tu propiedad. En España, una cámara doméstica no puede captar la vía pública más allá de lo imprescindible para vigilar tu acceso, y si graba zonas comunes de una comunidad de vecinos se necesita autorización. Cambia siempre la contraseña por defecto y activa la verificación en dos pasos en la app.",
+    "<h2>Lista rápida antes de comprar</h2>",
+    "<ul><li>Ranura microSD y capacidad máxima admitida.</li><li>Detección de personas incluida sin pago.</li><li>Acceso desde el móvil sin suscripción.</li><li>Compatibilidad con grabador o NAS (RTSP u ONVIF) si piensas ampliar.</li></ul>",
     "Modelos concretos en el <a href=\"/mejores/camaras-wifi-exterior.html\">ranking de cámaras de exterior</a> y en el <a href=\"/mejores/kits-de-videovigilancia-con-grabador.html\">top de kits con grabador</a>."
    ]
   },
   {
-   "updated": "2026-09-24",
+   "updated": "2026-10-01",
    "slug": "camara-wifi-2-4-ghz-o-5-ghz-cual-conviene",
    "guide": "camaras-wifi-interior",
    "title": "Cámara WiFi de 2,4 GHz o 5 GHz: ¿cuál conviene?",
@@ -449,6 +459,15 @@ module.exports = {
     "Ideal si la cámara está cerca del router o de un punto de acceso, y en edificios con muchas redes vecinas.",
     "<h2>Si tu router mezcla las dos bandas</h2>",
     "Algunos routers usan un único nombre de red para ambas bandas. Si la cámara no se configura, separa temporalmente las redes o busca una cámara de doble banda.",
+    "<h2>Cómo saber qué señal llega donde vas a poner la cámara</h2>",
+    "Antes de instalarla, ve con el móvil al punto exacto donde irá la cámara y comprueba la cobertura. Si el móvil muestra una o dos rayas, la cámara también irá justa. Las cámaras de exterior suelen tener antenas modestas y paredes de por medio, así que lo que en el salón va perfecto puede cortarse en el jardín.",
+    "Si la señal es débil, un repetidor o un sistema mesh cerca de la cámara suele solucionar los cortes mejor que cambiar de cámara.",
+    "<h2>Cuánto ancho de banda consume una cámara</h2>",
+    "Una cámara 1080p consume en torno a 1-2 Mbps mientras transmite, y una 2K o 4K bastante más. Con una o dos cámaras, la banda de 2,4 GHz sobra. Con cuatro o más cámaras transmitiendo a la vez, esa banda se satura y la de 5 GHz, o mejor un grabador con cable, es lo más fiable.",
+    "<h2>Pasos para configurar una cámara que solo admite 2,4 GHz</h2>",
+    "<ol><li>Entra en la configuración del router (normalmente desde el navegador o la app de tu operador).</li><li>Desactiva la opción de banda unificada o 'smart connect'.</li><li>Pon un nombre distinto a la red de 2,4 GHz.</li><li>Conecta el móvil a esa red y configura la cámara desde la app.</li><li>Una vez configurada, puedes volver a unificar las redes: la cámara seguirá conectada a 2,4 GHz.</li></ol>",
+    "<h2>Y si la cámara está lejos del router</h2>",
+    "Para puntos muy alejados, como una nave, una caseta o el fondo de una parcela, valora cámaras con cable de red (PoE) o con 4G. El WiFi, en cualquiera de sus bandas, tiene límites que ningún ajuste resuelve.",
     "Tienes cámaras de doble banda en el <a href=\"/mejores/camaras-wifi-interior.html\">ranking de cámaras de interior 2026</a>."
    ]
   }

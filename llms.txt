@@ -1,0 +1,30 @@
+# HogarSeguro
+
+> Guías de compra y comparativas independientes de cámaras WiFi, timbres inteligentes, cerraduras conectadas, sensores y kits de videovigilancia para proteger tu hogar sin gastar de más.
+
+HogarSeguro publica guías de compra y rankings en español. Los productos se seleccionan entre los más vendidos de Amazon.es y se ordenan por valoración media y número de opiniones de compradores. No se publican precios fijos. Metodología completa: https://hogarseguroya.es/sobre-nosotros/
+
+## Rankings
+- [Mejores cámara wifi para interior](https://hogarseguroya.es/mejores/camaras-wifi-interior.html): Ranking 2026 de cámaras WiFi de interior: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores cámara wifi para exterior](https://hogarseguroya.es/mejores/camaras-wifi-exterior.html): Ranking 2026 de cámaras WiFi de exterior: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores timbres con cámara: cómo elegir el que de verdad necesitas](https://hogarseguroya.es/mejores/timbres-inteligentes-con-camara.html): Ranking 2026 de timbres con cámara: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato. Opiniones reales.
+- [Mejores cerraduras inteligentes: qué mirar antes de cambiar la de tu puerta](https://hogarseguroya.es/mejores/cerraduras-inteligentes.html): Ranking 2026 de cerraduras inteligentes: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores sensores de apertura y movimiento: cómo montar una alarma sencilla](https://hogarseguroya.es/mejores/sensores-de-apertura-y-movimiento.html): Ranking 2026 de sensores de apertura y movimiento: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores cámaras de vigilancia con batería y sin cables: guía de compra](https://hogarseguroya.es/mejores/camaras-de-bateria-sin-cables.html): Ranking 2026 de cámaras de vigilancia con batería: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores kits de videovigilancia con grabador (nvr/dvr): guía de compra](https://hogarseguroya.es/mejores/kits-de-videovigilancia-con-grabador.html): Ranking 2026 de kits de videovigilancia: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores enchufes y luces inteligentes como complemento de seguridad](https://hogarseguroya.es/mejores/enchufes-y-luces-inteligentes-de-seguridad.html): Ranking 2026 de enchufes inteligentes: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+
+## Guías de compra
+- [Cómo elegir una cámara WiFi para interior](https://hogarseguroya.es/guias/camaras-wifi-interior.html)
+- [Cómo elegir una cámara WiFi para exterior](https://hogarseguroya.es/guias/camaras-wifi-exterior.html)
+- [Timbres con cámara: cómo elegir el que de verdad necesitas](https://hogarseguroya.es/guias/timbres-inteligentes-con-camara.html)
+- [Cerraduras inteligentes: qué mirar antes de cambiar la de tu puerta](https://hogarseguroya.es/guias/cerraduras-inteligentes.html)
+- [Sensores de apertura y movimiento: cómo montar una alarma sencilla](https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html)
+- [Cámaras de vigilancia con batería y sin cables: guía de compra](https://hogarseguroya.es/guias/camaras-de-bateria-sin-cables.html)
+- [Kits de videovigilancia con grabador (NVR/DVR): guía de compra](https://hogarseguroya.es/guias/kits-de-videovigilancia-con-grabador.html)
+- [Enchufes y luces inteligentes como complemento de seguridad](https://hogarseguroya.es/guias/enchufes-y-luces-inteligentes-de-seguridad.html)
+
+## Sobre el sitio
+- [Sobre nosotros y metodología](https://hogarseguroya.es/sobre-nosotros/)
+- [Contacto](https://hogarseguroya.es/contacto/)
+- [Política de afiliación](https://hogarseguroya.es/legal/afiliacion.html)
