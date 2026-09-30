@@ -776,17 +776,6 @@
       "statusCode": 301
     },
     {
-      "source": "/comparativas/philips-hue-secure-sensor-de-contacto-vs-sonoff-sensor-zigbee-puerta-ventana.html",
-      "has": [
-        {
-          "type": "host",
-          "value": "hogar-seguro.vercel.app"
-        }
-      ],
-      "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
-      "statusCode": 301
-    },
-    {
       "source": "/comparativas/philips-hue-secure-sensor-de-contacto-vs-tapo-t100.html",
       "has": [
         {
@@ -908,7 +897,7 @@
       "statusCode": 301
     },
     {
-      "source": "/comparativas/sensores-de-apertura-y-movimiento-ajax-vs-sonoff.html",
+      "source": "/comparativas/sensores-de-apertura-y-movimiento-sonoff-vs-ajax.html",
       "has": [
         {
           "type": "host",
@@ -916,6 +905,39 @@
         }
       ],
       "destination": "https://hogarseguroya.es/mejores/sensores-de-apertura-y-movimiento.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparativas/sonoff-snzb-02d-zigbee-lcd-sensor-vs-philips-hue-secure-sensor-de-contacto.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "hogar-seguro.vercel.app"
+        }
+      ],
+      "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparativas/sonoff-snzb-02d-zigbee-lcd-sensor-vs-sonoff-sensor-zigbee-puerta-ventana.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "hogar-seguro.vercel.app"
+        }
+      ],
+      "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparativas/sonoff-snzb-02d-zigbee-lcd-sensor-vs-tecknet-alarma-de-puerta.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "hogar-seguro.vercel.app"
+        }
+      ],
+      "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
       "statusCode": 301
     },
     {
@@ -1337,6 +1359,17 @@
       "statusCode": 301
     },
     {
+      "source": "/comparativas/tuya-smart-wifi-sensor-de-puerta-puerta-vs-philips-hue-secure-sensor-de-contacto.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "hogar-seguro.vercel.app"
+        }
+      ],
+      "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
+      "statusCode": 301
+    },
+    {
       "source": "/comparativas/videoportero-wifi-2-hilos-vs-boifun-timbre-inalambrico-exterior.html",
       "has": [
         {
@@ -1488,6 +1521,39 @@
         }
       ],
       "destination": "https://hogarseguroya.es/mejores/camaras-wifi-interior.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/mejores/sensores-de-apertura-y-movimiento-marca-sonoff.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "hogar-seguro.vercel.app"
+        }
+      ],
+      "destination": "https://hogarseguroya.es/mejores/sensores-de-apertura-y-movimiento.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/productos/gillette-sensor-excel-cuchillas-de-afeitar-para-hombre-pack-de-10-b01cfl4hfa.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "hogar-seguro.vercel.app"
+        }
+      ],
+      "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/productos/sonoff-snzb-02d-zigbee-lcd-sensor-inteligente-de-temperatura-y-humedad-termometro-higrometro-digital-para-interior-compatible-alexa-google-home-sonoff-b0byzp8nk2.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "hogar-seguro.vercel.app"
+        }
+      ],
+      "destination": "https://hogarseguroya.es/guias/sensores-de-apertura-y-movimiento.html",
       "statusCode": 301
     },
     {
@@ -1852,11 +1918,6 @@
       "permanent": true
     },
     {
-      "source": "/comparativas/philips-hue-secure-sensor-de-contacto-vs-sonoff-sensor-zigbee-puerta-ventana.html",
-      "destination": "/guias/sensores-de-apertura-y-movimiento.html",
-      "permanent": true
-    },
-    {
       "source": "/comparativas/philips-hue-secure-sensor-de-contacto-vs-tapo-t100.html",
       "destination": "/guias/sensores-de-apertura-y-movimiento.html",
       "permanent": true
@@ -1912,8 +1973,23 @@
       "permanent": true
     },
     {
-      "source": "/comparativas/sensores-de-apertura-y-movimiento-ajax-vs-sonoff.html",
+      "source": "/comparativas/sensores-de-apertura-y-movimiento-sonoff-vs-ajax.html",
       "destination": "/mejores/sensores-de-apertura-y-movimiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sonoff-snzb-02d-zigbee-lcd-sensor-vs-philips-hue-secure-sensor-de-contacto.html",
+      "destination": "/guias/sensores-de-apertura-y-movimiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sonoff-snzb-02d-zigbee-lcd-sensor-vs-sonoff-sensor-zigbee-puerta-ventana.html",
+      "destination": "/guias/sensores-de-apertura-y-movimiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sonoff-snzb-02d-zigbee-lcd-sensor-vs-tecknet-alarma-de-puerta.html",
+      "destination": "/guias/sensores-de-apertura-y-movimiento.html",
       "permanent": true
     },
     {
@@ -2107,6 +2183,11 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/tuya-smart-wifi-sensor-de-puerta-puerta-vs-philips-hue-secure-sensor-de-contacto.html",
+      "destination": "/guias/sensores-de-apertura-y-movimiento.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/videoportero-wifi-2-hilos-vs-boifun-timbre-inalambrico-exterior.html",
       "destination": "/guias/timbres-inteligentes-con-camara.html",
       "permanent": true
@@ -2177,6 +2258,21 @@
       "permanent": true
     },
     {
+      "source": "/mejores/sensores-de-apertura-y-movimiento-marca-sonoff.html",
+      "destination": "/mejores/sensores-de-apertura-y-movimiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/productos/gillette-sensor-excel-cuchillas-de-afeitar-para-hombre-pack-de-10-b01cfl4hfa.html",
+      "destination": "/guias/sensores-de-apertura-y-movimiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/productos/sonoff-snzb-02d-zigbee-lcd-sensor-inteligente-de-temperatura-y-humedad-termometro-higrometro-digital-para-interior-compatible-alexa-google-home-sonoff-b0byzp8nk2.html",
+      "destination": "/guias/sensores-de-apertura-y-movimiento.html",
+      "permanent": true
+    },
+    {
       "source": "/:section(guias|blog|comparativas|productos|legal|mejores)/:slug([^/.]+)",
       "destination": "/:section/:slug.html",
       "permanent": true
@@ -2198,6 +2294,18 @@
         {
           "key": "Referrer-Policy",
           "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=(), payment=()"
+        },
+        {
+          "key": "Content-Security-Policy",
+          "value": "frame-ancestors 'self'; base-uri 'self'; object-src 'none'; upgrade-insecure-requests"
         }
       ]
     },

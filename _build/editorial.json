@@ -1,0 +1,146 @@
+{
+  "B0CDCL38KZ": {
+    "resumen": ["El pack C200P2 son dos cámaras Tapo C200: la cámara de interior motorizada más vendida de España, con giro de 360° desde la app y detección de personas. Comprar el pack sale más barato que dos sueltas.", "Tapo (TP-Link) tiene una app estable y permite grabar en tarjeta microSD sin pagar suscripción, que es la gran ventaja frente a Ring o Arlo."],
+    "pros": ["Dos cámaras con giro 360° a precio de pack", "Grabación local en microSD sin cuota", "App muy estable y fácil de configurar"],
+    "contras": ["Resolución 1080p: hay modelos Tapo 2K por poco más", "Solo WiFi 2,4 GHz", "Tarjetas microSD no incluidas"],
+    "para": "vigilar dos estancias o una casa y una segunda residencia."
+  },
+  "B0D9MDV5L5": {
+    "resumen": ["La C200C es la versión 'compacta' de la C200: misma idea de cámara giratoria 360°, 1080p y detección por IA, a un precio aún menor.", "Si solo necesitas una cámara para ver al perro o la entrada del salón, es la compra más racional."],
+    "pros": ["Precio muy bajo con giro 360°", "Detección de personas y mascotas", "Sin suscripción obligatoria"],
+    "contras": ["1080p", "Solo WiFi 2,4 GHz", "Visión nocturna correcta pero no brillante"],
+    "para": "primera cámara de interior."
+  },
+  "B0FGD91F4Z": {
+    "resumen": ["Cámara de interior de 2K (3 MP) con WiFi de doble banda 2,4 y 5 GHz. Más resolución que las Tapo básicas y compatible con routers modernos que separan bandas.", "Marca menos conocida: presta atención a la app y a la privacidad."],
+    "pros": ["Resolución 2K", "WiFi de 2,4 y 5 GHz", "Precio de entrada"],
+    "contras": ["App de marca poco conocida", "Revisa dónde se almacena la nube", "Soporte a largo plazo incierto"],
+    "para": "quien quiere más resolución con poco presupuesto."
+  },
+  "B0CLLLYYXF": {
+    "resumen": ["La Xega es una cámara exterior con panel solar y 4G: funciona sin WiFi y sin enchufe, con una tarjeta SIM. Es la solución para casetas, parcelas, obras o casas de campo sin internet.", "Necesitas una SIM con datos, lo que supone un coste mensual."],
+    "pros": ["4G: funciona sin WiFi", "Panel solar: sin cables", "Motorizada (PTZ) con 2K"],
+    "contras": ["Necesita SIM con datos (coste mensual)", "Solar depende de la orientación y la época del año", "Marca poco conocida"],
+    "para": "parcelas y segundas residencias sin internet."
+  },
+  "B0BQJVKVQR": {
+    "resumen": ["La Tapo C500 es la hermana exterior de la C200: motorizada 360°, 1080p, IP65 y detección por IA. Necesita enchufe, pero a cambio no depende de baterías.", "Grabación local en microSD sin cuota."],
+    "pros": ["Giro 360° en exterior", "IP65 resistente a lluvia", "Sin suscripción"],
+    "contras": ["Necesita toma de corriente", "1080p", "Solo 2,4 GHz"],
+    "para": "vigilar un jardín, patio o entrada con enchufe cerca."
+  },
+  "B09Y5FG27D": {
+    "resumen": ["Cámara exterior WiFi 2K de GALAYOU, fija. Más resolución que la C500, pero sin giro.", "Barata y bien valorada."],
+    "pros": ["2K", "Precio bajo", "Visión nocturna"],
+    "contras": ["Fija, sin giro", "App menos pulida", "Requiere enchufe"],
+    "para": "vigilar un punto concreto."
+  },
+  "B0H2HR5MCK": {
+    "resumen": ["Esto no es un timbre inteligente, es un videoportero WiFi de 2 hilos con pantalla táctil de 7 pulgadas: sustituye al portero automático de una casa unifamiliar aprovechando los dos cables existentes.", "Instalación más compleja que un timbre con batería, pero integración total con la puerta."],
+    "pros": ["Aprovecha la instalación de 2 hilos", "Pantalla interior de 7''", "WiFi 6 para ver desde el móvil"],
+    "contras": ["Instalación que puede requerir electricista", "Solo para unifamiliares con portero propio", "Marca poco conocida"],
+    "para": "sustituir el portero de una casa unifamiliar."
+  },
+  "B0FHXVX9W9": {
+    "resumen": ["El Tapo D205 es un videotimbre de batería 2K con 160° de visión y batería de 5200 mAh. Se instala en minutos sin cables.", "Grabación local posible en el ecosistema Tapo."],
+    "pros": ["Sin cables", "2K y 160°", "Ecosistema Tapo"],
+    "contras": ["Batería a recargar cada pocos meses", "Retraso al despertar", "Puede necesitar hub para ciertas funciones"],
+    "para": "pisos y casas sin cableado de timbre."
+  },
+  "B08LR3G17D": {
+    "resumen": ["El Ring Video Doorbell Wired es el timbre de la marca más conocida en su versión con cable: más compacto y sin baterías que cargar.", "Sin suscripción Ring Protect, no guarda grabaciones: ese coste mensual hay que sumarlo."],
+    "pros": ["Marca de referencia", "Sin batería que recargar", "Compacto"],
+    "contras": ["Grabaciones solo con suscripción", "Requiere cableado de timbre", "1080p"],
+    "para": "ecosistemas Alexa."
+  },
+  "B0FCSL8BY6": {
+    "resumen": ["La Tedee GO2 es una cerradura 'retrofit': se monta por dentro sobre tu cilindro actual, sin cambiar la cerradura ni la estética exterior. Aluminio, pequeña y con bloqueo automático.", "Tedee es una marca europea especializada, con buena reputación en seguridad del software."],
+    "pros": ["Se monta sin cambiar la cerradura", "Bloqueo automático", "Marca europea especializada"],
+    "contras": ["Necesita cilindro compatible (con leva libre)", "Pocas opiniones aún", "Puente WiFi aparte para control remoto"],
+    "para": "pisos de propiedad o alquiler donde no quieres cambiar la cerradura."
+  },
+  "B0GKVQ9V8Q": {
+    "resumen": ["Cerradura con huella, app Bluetooth y tarjeta RFID: tres formas de abrir sin llave. Útil para quien alquila o tiene personas que entran a menudo.", "Revisa las medidas de tu puerta antes."],
+    "pros": ["Huella, app y tarjeta", "Sin llaves", "Precio contenido"],
+    "contras": ["Requiere cambiar la cerradura", "Marca genérica", "Pilas que vigilar"],
+    "para": "puertas interiores o de trastero."
+  },
+  "B0DXLGDYM7": {
+    "resumen": ["Pomo biométrico con huella y app. Para puertas interiores (despacho, habitación), no para puerta principal.", "Instalación sencilla."],
+    "pros": ["Instalación sencilla", "Huella", "Económico"],
+    "contras": ["No para puerta de entrada", "Seguridad física limitada", "Marca genérica"],
+    "para": "puertas interiores."
+  },
+  "B0BYZP8NK2": {
+    "resumen": ["Este SONOFF es un sensor de temperatura y humedad Zigbee con pantalla, no un sensor de apertura. En un sistema domótico sirve para automatizar calefacción o avisar de humedad excesiva.", "Necesita un hub Zigbee."],
+    "pros": ["Pantalla LCD", "Zigbee de bajo consumo", "Muy vendido"],
+    "contras": ["No detecta apertura ni movimiento", "Necesita hub Zigbee", "Uso en domótica, no en seguridad"],
+    "para": "domótica con Zigbee."
+  },
+  "B0C1G7W72B": {
+    "resumen": ["El SONOFF SNZB-04P sí es el sensor de puerta y ventana: avisa al móvil cuando se abre. Zigbee, pequeño y barato.", "Necesita hub Zigbee."],
+    "pros": ["Muy barato", "Zigbee de bajo consumo", "Pequeño"],
+    "contras": ["Necesita hub", "Adhesivo", "Sin sirena propia"],
+    "para": "alertas de apertura en casa conectada."
+  },
+  "B085XQLQ3N": {
+    "resumen": ["Tres interruptores magnéticos empotrables NO/NC con cable. Es material de instalación para alarmas cableadas, no un sensor inteligente.", "Para instaladores o aficionados a la electrónica."],
+    "pros": ["Empotrables, invisibles", "NO/NC", "Muy baratos"],
+    "contras": ["Requieren cableado y central", "No son inteligentes", "Instalación técnica"],
+    "para": "alarmas cableadas."
+  },
+  "B0DB82S2M9": {
+    "resumen": ["Cámara ieGeek solar con 4G, 2K. Como la Xega, funciona sin WiFi con SIM. Volumen de opiniones altísimo.", "Considera el coste de la SIM."],
+    "pros": ["4G y solar", "2K", "Muchas opiniones"],
+    "contras": ["SIM con coste", "Solar variable", "App propia"],
+    "para": "lugares sin WiFi."
+  },
+  "B0BZSFDDFB": {
+    "resumen": ["Cámara ieGeek 2K de batería WiFi para interior y exterior. Sin cables, se coloca en cualquier sitio.", "La batería se recarga cada varias semanas según uso."],
+    "pros": ["Sin cables", "2K", "Interior y exterior"],
+    "contras": ["Recarga periódica", "Retraso al detectar", "WiFi necesario"],
+    "para": "sitios sin enchufe."
+  },
+  "B0DT46TLJW": {
+    "resumen": ["Cámara de fanxiang sin cables, WiFi. fanxiang es más conocida por tarjetas de memoria.", "Económica."],
+    "pros": ["Sin cables", "Precio bajo", "Instalación sencilla"],
+    "contras": ["Marca nueva en cámaras", "App a comprobar", "Batería"],
+    "para": "presupuesto ajustado."
+  },
+  "B0GHR82G11": {
+    "resumen": ["Kit PoE de ANNKE con NVR de 8 canales y disco de 2 TB. PoE significa un solo cable por cámara para datos y corriente: la instalación más fiable.", "Para casas grandes, naves o negocios."],
+    "pros": ["PoE: fiable y sin WiFi", "Disco de 2 TB incluido", "Ampliable a 8 cámaras"],
+    "contras": ["Instalación de cable", "Precio de gama alta", "Configuración más técnica"],
+    "para": "casas grandes y negocios."
+  },
+  "B0H29HL4CT": {
+    "resumen": ["Kit SANNCE 4K PoE con cuatro cámaras domo y NVR de 8 canales. 4K para identificar personas a más distancia.", "Revisa si incluye disco."],
+    "pros": ["4K", "PoE", "Domo discreto"],
+    "contras": ["Disco quizás aparte", "Instalación de cable", "Marca menos conocida"],
+    "para": "máxima resolución."
+  },
+  "B0DYF1SVVP": {
+    "resumen": ["Kit WiFi de NIVIAN con cuatro cámaras y NVR de 10 canales. WiFi evita tirar cable de datos, pero cada cámara necesita enchufe.", "La opción más sencilla de instalar."],
+    "pros": ["Sin cable de red", "Económico", "NVR incluido"],
+    "contras": ["WiFi menos fiable que PoE", "Enchufe por cámara", "Marca genérica"],
+    "para": "instalación sin obras."
+  },
+  "B0BTPHNSHG": {
+    "resumen": ["Enchufe inteligente GHome con medición de consumo y compatibilidad con Alexa y Google. Programar luces simulando presencia es un truco de seguridad clásico.", "Medir consumo ayuda también a ahorrar."],
+    "pros": ["Mide consumo", "Alexa y Google", "Programación"],
+    "contras": ["Solo 2,4 GHz", "Marca menos conocida", "Voluminoso"],
+    "para": "simular presencia y medir consumo."
+  },
+  "B09BFT7NZJ": {
+    "resumen": ["El Tapo P110 mide consumo y se integra en la misma app que las cámaras Tapo. Si ya usas Tapo, todo queda en una app.", "Muy fiable."],
+    "pros": ["Mismo ecosistema Tapo", "Mide consumo", "Muy fiable"],
+    "contras": ["2,4 GHz", "Tamaño", "Sin HomeKit"],
+    "para": "usuarios de Tapo."
+  },
+  "B07Z5JD3T4": {
+    "resumen": ["El Tapo P100, sin medición: programación, control por voz y app. Más barato.", "Para simular presencia no necesitas medir consumo."],
+    "pros": ["Muy barato", "Fiable", "Compacto"],
+    "contras": ["Sin medición de consumo", "2,4 GHz", "Sin HomeKit"],
+    "para": "simular presencia."
+  }
+}
