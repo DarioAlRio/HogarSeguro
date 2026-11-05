@@ -1,1 +1,67 @@
-{}
+{
+ "/mejores/kits-de-videovigilancia-con-grabador.html": [
+  {
+   "h": "Kit con grabador PoE o WiFi: la decisión que más pesa",
+   "p": [
+    "En un kit PoE cada cámara recibe datos y corriente por un solo cable de red que llega al grabador (NVR). Es la opción más estable: no depende de la cobertura WiFi, no se corta con interferencias y la imagen llega sin comprimir de más. A cambio, hay que pasar cable hasta cada cámara.",
+    "Los kits WiFi solo necesitan un enchufe cerca de cada cámara. Son más rápidos de instalar, pero en chalets con muros gruesos o cámaras a más de 15–20 metros del grabador la señal se resiente. Si puedes tirar cable, PoE; si no, WiFi con el grabador en un punto central de la casa."
+   ]
+  },
+  {
+   "h": "Canales, disco y qué graba de verdad",
+   "p": [
+    "Los canales del grabador marcan cuántas cámaras admite en total, no cuántas trae el kit. Un NVR de 8 canales con 4 cámaras te deja crecer sin cambiar de equipo.",
+    "Fíjate en si incluye disco duro y de cuánto. Con 4 cámaras de 5 MP grabando en continuo, 1 TB da para unos pocos días; con grabación solo por movimiento y compresión H.265 dura bastante más. Si el kit viene sin disco, suma ese coste antes de comparar.",
+    "En España, las cámaras deben enfocar tu propiedad: grabar la vía pública o la casa del vecino no está permitido, y hay que colocar el cartel informativo de zona videovigilada."
+   ]
+  }
+ ],
+ "/mejores/camaras-wifi-exterior.html": [
+  {
+   "h": "Lo que diferencia una cámara exterior que dura de una que no",
+   "p": [
+    "La protección IP65 o superior es el mínimo para que aguante lluvia y polvo; IP66 o IP67 si va expuesta sin alero. Más que la resolución, lo que más se nota en el día a día es la visión nocturna: los modelos con foco o visión en color de noche identifican mejor a una persona que los que solo usan infrarrojos.",
+    "Casi todas se conectan solo a WiFi de 2,4 GHz. Antes de comprar, comprueba con el móvil que la señal llega con al menos dos rayas al punto donde la vas a poner; si no, necesitarás un repetidor o un modelo con cable de red."
+   ]
+  },
+  {
+   "h": "Grabación: tarjeta, nube o grabador",
+   "p": [
+    "Las marcas como Tapo o Imou graban en tarjeta microSD sin cuota mensual; la nube es opcional. Ring y Arlo, en cambio, apenas sirven sin suscripción porque sin ella no guardan vídeos.",
+    "Si la cámara queda a mano de quien entra, una tarjeta se puede robar junto con la cámara. En accesos principales compensa que suba las alertas a la nube o que grabe también en un grabador dentro de casa."
+   ]
+  }
+ ],
+ "/mejores/cerraduras-inteligentes.html": [
+  {
+   "h": "Antes de comprar: mide tu puerta y tu cilindro",
+   "p": [
+    "Hay dos tipos. Las que sustituyen la cerradura entera (con pomo, teclado y huella) exigen que el hueco de tu puerta coincida con el del modelo. Las que se montan por dentro sobre el cilindro actual, como Nuki, no cambian nada por fuera y se instalan en minutos.",
+    "Mide el grosor de la puerta y la longitud del cilindro desde el centro hacia cada lado. Si el cilindro sobresale más de 3 mm por fuera, cámbialo por uno de seguridad antibumping: una cerradura inteligente no protege si el bombín se puede romper."
+   ]
+  },
+  {
+   "h": "Pilas, llave de emergencia y WiFi",
+   "p": [
+    "Todas funcionan con pilas o batería y avisan cuando se están agotando. Comprueba que tengan llave mecánica o toma USB de emergencia por fuera para abrir si se descargan.",
+    "Muchas solo tienen Bluetooth: abren desde el móvil cuando estás cerca. Para abrir a distancia o recibir avisos fuera de casa necesitan un puente WiFi, que a veces se vende aparte."
+   ]
+  }
+ ],
+ "/mejores/timbres-inteligentes-con-camara.html": [
+  {
+   "h": "Con cable o con batería",
+   "p": [
+    "Si ya tienes un timbre con cable, aprovéchalo: el videotimbre no se queda sin carga y suele responder más rápido al pulsar. Comprueba la tensión de tu transformador (normalmente entre 8 y 24 V de alterna) en la ficha del modelo.",
+    "Los de batería se instalan en cualquier sitio, pero hay que cargarlos cada pocas semanas o meses según el tráfico de la puerta. En pisos con mucho movimiento en el rellano, la batería dura bastante menos de lo que promete la caja."
+   ]
+  },
+  {
+   "h": "Mirilla digital para pisos",
+   "p": [
+    "En un piso donde no puedes taladrar la fachada ni la puerta por fuera, la mirilla digital ocupa el agujero de la mirilla y no se ve desde el rellano. Es la alternativa más discreta a un videoportero.",
+    "Mira también si el timbre incluye campanilla interior: algunos solo suenan en el móvil, y si lo tienes en silencio no te enteras de que llaman."
+   ]
+  }
+ ]
+}
