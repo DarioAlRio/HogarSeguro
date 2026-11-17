@@ -63,5 +63,218 @@
     "Mira también si el timbre incluye campanilla interior: algunos solo suenan en el móvil, y si lo tienes en silencio no te enteras de que llaman."
    ]
   }
+ ],
+ "/guias/camaras-wifi-interior.html": [
+  {
+   "h": "Cámaras en casa y la ley: cuándo tienes que avisar",
+   "p": [
+    "Grabar el interior de tu propia vivienda para uso personal está permitido sin trámites. La cosa cambia si en casa trabaja alguien (una persona que limpia, que cuida a tus hijos o a tus mayores): tienes que <strong>informarle</strong> de que hay cámaras y no puedes ponerlas en zonas de descanso ni en el baño.",
+    "Si alquilas la vivienda por días, avisa en el anuncio y nunca coloques cámaras en dormitorios ni baños. Las plataformas de alquiler turístico las prohíben ahí y la ley también protege esa intimidad."
+   ]
+  },
+  {
+   "h": "Cinco ajustes de seguridad que deberías hacer el primer día",
+   "ul": [
+    "Cambia la contraseña que viene por defecto y activa la verificación en dos pasos en la app.",
+    "Actualiza el firmware al instalarla y deja activadas las actualizaciones automáticas.",
+    "Si tu router lo permite, conecta las cámaras a una red WiFi de invitados, separada de tus ordenadores.",
+    "Revisa con quién compartes el acceso en la app y quita a quien ya no lo necesite.",
+    "Usa el modo privacidad o la desactivación por geolocalización para que no graben cuando estás en casa."
+   ]
+  }
+ ],
+ "/guias/camaras-wifi-exterior.html": [
+  {
+   "h": "Qué puedes grabar desde tu casa (y qué no)",
+   "p": [
+    "Una cámara exterior debe enfocar <strong>tu propiedad</strong>: tu puerta, tu jardín, tu garaje. Grabar la calle, la acera o la casa de los vecinos no está permitido, salvo la franja mínima imprescindible que no se pueda evitar por la colocación. La mayoría de cámaras permiten dibujar <strong>zonas de privacidad</strong> para tapar esa parte.",
+    "Si la cámara capta zonas de paso o se ve desde fuera, coloca el cartel de \"zona videovigilada\". En un piso, poner una cámara que grabe el rellano o el portal requiere acuerdo de la comunidad."
+   ]
+  },
+  {
+   "h": "Dónde colocarla para que sirva",
+   "ul": [
+    "A unos 2,5–3 m de altura: lo bastante alta para que no la arranquen y lo bastante baja para ver caras, no solo cabezas.",
+    "Que no apunte directamente al sol de la mañana o de la tarde: el contraluz deja la imagen en negro justo a esas horas.",
+    "Bajo un alero, aunque sea IP66: la lluvia directa sobre la lente deja gotas que estropean la imagen nocturna.",
+    "Prueba la cobertura WiFi en ese punto con el móvil antes de taladrar."
+   ]
+  }
+ ],
+ "/guias/timbres-inteligentes-con-camara.html": [
+  {
+   "h": "Piso, chalet o alquiler: qué te deja instalar cada uno",
+   "p": [
+    "En un <strong>chalet</strong> puedes poner el timbre que quieras en tu puerta exterior, siempre que enfoque tu entrada y no la calle. En un <strong>piso</strong>, un timbre o una mirilla digital que solo graba cuando alguien llama a tu puerta es la opción sin problemas; uno que graba el rellano de forma continua necesita el acuerdo de la comunidad.",
+    "Si vives de <strong>alquiler</strong>, elige modelos de batería o mirillas digitales que se montan en el agujero de la mirilla actual: no hay obra y te los llevas al mudarte."
+   ]
+  },
+  {
+   "h": "Cuánto cuesta de verdad al cabo de tres años",
+   "p": [
+    "Compara el precio de compra más lo que pagarás en suscripciones: hay timbres que sin cuota solo avisan y muestran vídeo en directo, pero no guardan nada. Si una suscripción cuesta unos 4 € al mes, en tres años suma unos 140 €, a menudo más que el propio timbre.",
+    "Los modelos con <strong>almacenamiento local</strong> (tarjeta microSD o base con memoria) salen más caros al principio, pero no tienen ese coste fijo. Si ya tienes otras cámaras de la misma marca, revisa si una sola suscripción las cubre todas."
+   ]
+  }
+ ],
+ "/guias/cerraduras-inteligentes.html": [
+  {
+   "h": "Cómo medir tu cilindro antes de comprar",
+   "p": [
+    "La mayoría de puertas en España usan <strong>cilindro europeo</strong>. Se mide en dos partes: desde el tornillo central hasta el borde exterior y desde el tornillo hasta el borde interior (por ejemplo, 30/40 mm). Muchas cerraduras inteligentes necesitan un cilindro con <strong>doble embrague</strong>, que permite abrir con llave aunque haya otra llave metida por dentro.",
+    "Si la cerradura se monta por dentro sobre tu cilindro actual, comprueba que la parte interior sobresale lo suficiente para que el motor la agarre."
+   ]
+  },
+  {
+   "h": "Seguridad física y seguro del hogar",
+   "p": [
+    "Una cerradura inteligente no es más segura que el cilindro sobre el que va montada. Si tu cilindro es básico, cámbialo por uno con protección <strong>antibumping, antiganzúa y antirrotura</strong>: cuestan entre 40 y 100 € y son lo que de verdad frena un robo.",
+    "Antes de cambiar nada, lee tu póliza de hogar: algunas exigen un tipo concreto de cerradura o de puerta para cubrir el robo, y conviene que lo nuevo cumpla lo mismo o más."
+   ]
+  }
+ ],
+ "/guias/sensores-de-apertura-y-movimiento.html": [
+  {
+   "h": "Alarma por tu cuenta o con central: diferencias reales",
+   "p": [
+    "Con sensores conectados a una app, el aviso <strong>te llega a ti</strong>. Si salta, eres tú quien revisa las cámaras y llama al 091, al 062 o al 112. Es una opción sin cuotas y perfectamente legal.",
+    "Una alarma con <strong>central receptora</strong> (las de empresa, con cuota mensual) verifica el aviso con imágenes o audio y avisa directamente a la policía. En España solo las empresas de seguridad autorizadas pueden prestar ese servicio. La diferencia está en quién reacciona cuando tú no puedes mirar el móvil."
+   ]
+  },
+  {
+   "h": "Dónde colocar cada sensor para evitar falsas alarmas",
+   "ul": [
+    "Sensores de movimiento en una esquina, a unos 2,2 m, mirando hacia el interior y nunca hacia una ventana o un radiador: el sol y el calor los disparan.",
+    "En verano, con 30–35 °C en casa, los sensores de infrarrojos detectan peor a las personas porque el cuerpo está casi a la misma temperatura que la habitación. Prueba la detección en agosto, no solo en invierno.",
+    "Con mascotas, elige sensores \"pet immune\" ajustados al peso de tu animal (suelen cubrir hasta 20–25 kg) o vigila solo las puertas.",
+    "Sensores de apertura en la puerta principal y en las ventanas accesibles desde la calle, patio o terraza."
+   ]
+  }
+ ],
+ "/guias/camaras-de-bateria-sin-cables.html": [
+  {
+   "h": "Clima y orientación: lo que más cambia la autonomía",
+   "p": [
+    "La batería de estas cámaras rinde peor con frío: por debajo de 0 °C muchas dejan de cargar, aunque tengan panel solar. Si vives en una zona de montaña o en la meseta en invierno, cuenta con cargarlas a mano alguna vez.",
+    "El <strong>panel solar</strong> funciona bien orientado al sur y sin sombras; en una fachada norte apenas aporta en invierno. Y en verano pasa algo poco conocido: con 35 °C a la sombra, el sensor de infrarrojos detecta peor a las personas, así que conviene subir un punto la sensibilidad."
+   ]
+  },
+  {
+   "h": "Qué hace que la batería se gaste antes de tiempo",
+   "ul": [
+    "Una zona de detección que incluye la calle o un árbol que se mueve: cada falsa alarma enciende la grabación. Ajusta las zonas en la app.",
+    "Grabaciones demasiado largas o visión nocturna en color con foco: gastan bastante más que el infrarrojo.",
+    "Señal WiFi débil: la cámara gasta más transmitiendo. Si en la app ves una o dos rayas, acerca el router o pon un repetidor.",
+    "Ver el directo a menudo: cada consulta despierta la cámara."
+   ]
+  }
+ ],
+ "/guias/kits-de-videovigilancia-con-grabador.html": [
+  {
+   "h": "Ver las cámaras desde fuera de casa con tu operador",
+   "p": [
+    "Para ver el grabador desde el móvil, casi todos los kits usan una conexión <strong>P2P</strong> a través del servidor del fabricante: escaneas un código QR y listo, sin tocar el router. Es la opción que funciona con cualquier operador.",
+    "Algunos operadores españoles de fibra (Digi, por ejemplo) usan CG-NAT por defecto, que impide el acceso directo por IP o DDNS. Si quieres acceso sin depender del servidor del fabricante, pide a tu operador una IP pública (a veces es gratis, a veces cuesta unos euros al mes)."
+   ]
+  },
+  {
+   "h": "Detalles de instalación que alargan la vida del sistema",
+   "ul": [
+    "Usa un disco duro para videovigilancia (WD Purple, Seagate SkyHawk o similar): aguantan la escritura continua mucho mejor que un disco normal.",
+    "Pon el grabador en un sitio escondido y, si puedes, con un pequeño SAI: si lo roban o se va la luz, se pierde la grabación justo cuando más falta hace.",
+    "En cámaras PoE exteriores, deja un poco de cable de sobra en una caja estanca: facilita cambiar la cámara sin volver a tirar cable.",
+    "Activa la compresión H.265 si el kit la ofrece: casi duplica los días de grabación con el mismo disco."
+   ]
+  }
+ ],
+ "/guias/enchufes-y-luces-inteligentes-de-seguridad.html": [
+  {
+   "h": "Cómo simular presencia de forma creíble",
+   "ul": [
+    "Usa el modo aleatorio o \"vacaciones\" de la app: encender la misma lámpara todos los días a las 21:00 en punto delata que es automático.",
+    "Combina al menos dos estancias que se vean desde la calle, por ejemplo el salón y luego un dormitorio, y apaga a horas normales.",
+    "La persiana también cuenta: una casa con todas las persianas bajadas durante días parece vacía aunque se encienda una luz.",
+    "Si tienes cámaras, programa que la luz exterior se encienda cuando detecten movimiento de noche."
+   ]
+  },
+  {
+   "h": "Qué potencia admite cada enchufe",
+   "p": [
+    "Los enchufes inteligentes suelen admitir 10 A (unos 2.300 W) o 16 A (unos 3.600 W). Para lámparas y un televisor cualquiera sirve; para estufas, radiadores o calentadores, usa solo modelos de 16 A y que indiquen expresamente que soportan esa carga de forma continua.",
+    "Si tu casa tiene muchos dispositivos de distintas marcas, elegir enchufes compatibles con <strong>Matter</strong> te permite controlarlos desde Google, Alexa o Apple sin depender de una sola app."
+   ]
+  }
+ ],
+ "/mejores/camaras-wifi-interior.html": [
+  {
+   "h": "Qué cámara elegir de esta lista",
+   "ul": [
+    "<strong>Vigilar a la mascota:</strong> una con giro motorizado y audio bidireccional para hablarle.",
+    "<strong>Bebé o persona mayor:</strong> visión nocturna nítida y avisos por sonido (llanto, caídas), mejor con grabación local.",
+    "<strong>Segunda residencia vacía:</strong> detección de personas con avisos al móvil y grabación en la nube por si roban la cámara.",
+    "<strong>Solo ver qué pasa de vez en cuando:</strong> la más sencilla de la lista, con tarjeta SD, sin cuotas."
+   ]
+  },
+  {
+   "h": "Lo que no se ve en la ficha",
+   "p": [
+    "Antes de elegir marca, fíjate en la <strong>app</strong>: es lo que vas a usar todos los días. Las de Tapo, Imou o Ezviz permiten grabar en tarjeta sin cuota; otras marcas limitan mucho las funciones si no pagas suscripción.",
+    "Comprueba también si la cámara funciona con tu asistente (Alexa, Google Home) y si se puede ver desde un ordenador, no solo desde el móvil."
+   ]
+  }
+ ],
+ "/mejores/sensores-de-apertura-y-movimiento.html": [
+  {
+   "h": "Qué kit elegir de este ranking",
+   "ul": [
+    "<strong>Piso con una sola puerta de entrada:</strong> un sensor de apertura en la puerta y uno de movimiento en el pasillo bastan para empezar.",
+    "<strong>Bajo o chalet:</strong> sensores de apertura también en ventanas accesibles y una sirena interior.",
+    "<strong>Ya tienes cámaras de una marca:</strong> sensores de la misma marca, para que todo salga en la misma app y las cámaras graben cuando salte un sensor.",
+    "<strong>Domótica (Home Assistant, Zigbee):</strong> sensores Zigbee con hub compatible, más baratos y con pilas que duran más."
+   ]
+  },
+  {
+   "h": "El hub: el coste que no aparece en el precio",
+   "p": [
+    "Muchos sensores baratos necesitan un <strong>hub o pasarela</strong> que se vende aparte. Comprueba si el kit lo incluye o si ya tienes uno compatible (algunos altavoces inteligentes y routers hacen de hub Zigbee o Thread).",
+    "Los sensores WiFi sin hub son más sencillos, pero gastan más pila y no todos avisan con la rapidez de los Zigbee."
+   ]
+  }
+ ],
+ "/mejores/camaras-de-bateria-sin-cables.html": [
+  {
+   "h": "Qué cámara de batería elegir",
+   "ul": [
+    "<strong>Entrada de casa con mucho movimiento:</strong> una con panel solar incluido: sin él, cargarás la batería cada pocas semanas.",
+    "<strong>Jardín o parcela sin enchufes:</strong> batería grande y buena antena WiFi, o un modelo con base propia que haga de puente.",
+    "<strong>Alquiler o piso:</strong> las más compactas con soporte magnético, sin taladros.",
+    "<strong>Varias cámaras:</strong> una marca con base o grabador común para tener todas en un solo sitio."
+   ]
+  },
+  {
+   "h": "Autonomía anunciada frente a autonomía real",
+   "p": [
+    "Las cifras de \"hasta 6 meses\" se calculan con muy pocas detecciones al día. En una entrada con tránsito o con zonas de detección mal ajustadas, la batería puede durar semanas. Lee las reseñas de compradores con un uso parecido al tuyo.",
+    "Comprueba si la batería es <strong>extraíble</strong>: puedes tener una de repuesto cargada y cambiarla en segundos sin bajar la cámara."
+   ]
+  }
+ ],
+ "/mejores/enchufes-y-luces-inteligentes-de-seguridad.html": [
+  {
+   "h": "Qué elegir de esta lista según tu objetivo",
+   "ul": [
+    "<strong>Simular que hay alguien en casa:</strong> dos o tres enchufes inteligentes con modo aleatorio para lámparas de salón y dormitorio.",
+    "<strong>Disuadir en la entrada:</strong> foco exterior con sensor de movimiento; si es con cámara integrada, mejor aún.",
+    "<strong>Controlar el consumo de paso:</strong> enchufes con medición de energía, útiles también para saber qué gasta más en casa.",
+    "<strong>Casa sin WiFi en el exterior:</strong> focos solares con sensor, que funcionan solos sin app."
+   ]
+  },
+  {
+   "h": "Compatibilidad antes que precio",
+   "p": [
+    "Un enchufe barato que solo funciona con su propia app acaba siendo un problema cuando tienes cinco aparatos de cinco marcas. Prioriza los compatibles con <strong>Alexa y Google Home</strong> o, mejor, con Matter.",
+    "La mayoría de enchufes inteligentes solo se conectan a WiFi de 2,4 GHz. Si tu router mezcla 2,4 y 5 GHz con el mismo nombre de red, puede que tengas que separarlas para configurarlos."
+   ]
+  }
  ]
 }
